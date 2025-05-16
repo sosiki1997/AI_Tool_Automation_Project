@@ -8,6 +8,12 @@ config/
 # 插件目录
 .specstory/
 
+# Cursor编辑器相关文件
+.cursor/
+.cursorignore
+.cursorindexingignore
+.cursorcache/
+
 # 缓存文件
 __pycache__/
 *.py[cod]
