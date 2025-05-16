@@ -109,7 +109,6 @@ class DataCollector:
                         
                         name = repo['full_name'].replace('/', ' / ')
                         description = repo['description'] or "无描述"
-                        zh_explain = description[:30] if description else "无简介"
                         stars = repo['stargazers_count']
                         language = repo['language'] or "未知"
                         
@@ -122,7 +121,6 @@ class DataCollector:
                         tools.append({
                             "name": name,
                             "description": description,
-                            "zh_explain": zh_explain,
                             "url": url,
                             "source": "GitHub",
                             "stars": stars,

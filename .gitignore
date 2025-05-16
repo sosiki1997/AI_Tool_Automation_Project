@@ -1,0 +1,32 @@
+# 项目输出目录
+output/
+logs/
+
+# 配置文件（包含API密钥）
+config/
+
+# 插件目录
+.specstory/
+
+# 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+venv/
+env/
+.env/
+
+# IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# SpecStory explanation file
+.specstory/.what-is-this.md
