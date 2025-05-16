@@ -79,6 +79,17 @@ Logs are stored in `logs/automation_log.txt` and include:
 - Notion integration status
 - Any errors or exceptions
 
+## Reuse
+
+Show the list have been searched:
+```
+python3 scripts/data_collection.py --show
+```
+remove the list:
+```
+python3 scripts/data_collection.py --clear
+```
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests! 

@@ -1,2 +1,1252 @@
 2025-05-14 19:54:12,576 - INFO - 开始收集AI工具信息...
 2025-05-14 19:54:13,985 - INFO - 所有数据已保存到: output/ai_tools_20250514_195413.txt
+2025-05-14 20:19:05,214 - INFO - 开始收集AI工具信息...
+2025-05-14 20:19:14,568 - WARNING - 未收集到任何工具信息
+2025-05-14 20:19:29,011 - INFO - 开始收集AI工具信息...
+2025-05-14 20:19:37,163 - WARNING - 未收集到任何工具信息
+2025-05-14 20:21:06,885 - INFO - 开始收集AI工具信息...
+2025-05-14 20:21:07,413 - ERROR - 从 Futurepedia 收集数据时出错: 404 Client Error: Not Found for url: https://www.futurepedia.io/tools
+2025-05-14 20:21:07,416 - INFO - 从 Futurepedia 收集到 0 个工具
+2025-05-14 20:21:10,700 - INFO - 从 AI Tool Guide 收集到 0 个工具
+2025-05-14 20:21:11,926 - WARNING - 未收集到任何工具信息
+2025-05-14 20:22:40,899 - INFO - 开始收集AI工具信息...
+2025-05-14 20:22:41,950 - INFO - 找到工具: browser-use/browser-use (⭐ 0)
+2025-05-14 20:22:41,950 - INFO - 找到工具: plandex-ai/plandex (⭐ 0)
+2025-05-14 20:22:41,950 - INFO - 找到工具: nanobrowser/nanobrowser (⭐ 0)
+2025-05-14 20:22:41,951 - INFO - 找到工具: steel-dev/steel-browser (⭐ 0)
+2025-05-14 20:22:41,951 - INFO - 找到工具: mahseema/awesome-ai-tools (⭐ 0)
+2025-05-14 20:22:41,951 - INFO - 找到工具: StreetLamb/tribe (⭐ 0)
+2025-05-14 20:22:41,951 - INFO - 找到工具: bytebot-ai/bytebot (⭐ 0)
+2025-05-14 20:22:41,952 - INFO - 找到工具: superiorlu/AITreasureBox (⭐ 0)
+2025-05-14 20:22:41,952 - INFO - 找到工具: browserable/browserable (⭐ 0)
+2025-05-14 20:22:41,952 - INFO - 找到工具: Mintplex-Labs/openai-assistant-swarm (⭐ 0)
+2025-05-14 20:22:41,952 - INFO - 找到工具: sigoden/llm-functions (⭐ 0)
+2025-05-14 20:22:41,952 - INFO - 找到工具: meetpateltech/AI-Infinity (⭐ 0)
+2025-05-14 20:22:41,953 - INFO - 找到工具: deepset-ai/haystack-cookbook (⭐ 0)
+2025-05-14 20:22:41,953 - INFO - 找到工具: suitedaces/computer-agent (⭐ 0)
+2025-05-14 20:22:41,953 - INFO - 找到工具: pingan8787/awesome-ai-tools (⭐ 0)
+2025-05-14 20:22:41,953 - INFO - 找到工具: suncloudsmoon/awesome-open-source-ai (⭐ 0)
+2025-05-14 20:22:41,953 - INFO - 找到工具: openbestof/awesome-ai (⭐ 0)
+2025-05-14 20:22:41,954 - INFO - 找到工具: DiscovAI/DiscovAI-search (⭐ 0)
+2025-05-14 20:22:41,954 - INFO - 找到工具: langchain-ai/langchainjs-mcp-adapters (⭐ 0)
+2025-05-14 20:22:41,954 - INFO - 找到工具: aidatatools/ollama-benchmark (⭐ 0)
+2025-05-14 20:22:43,886 - INFO - 找到工具: Significant-Gravitas/AutoGPT (⭐ 0)
+2025-05-14 20:22:43,886 - INFO - 找到工具: hacksider/Deep-Live-Cam (⭐ 0)
+2025-05-14 20:22:43,886 - INFO - 找到工具: All-Hands-AI/OpenHands (⭐ 0)
+2025-05-14 20:22:43,887 - INFO - 找到工具: rasbt/LLMs-from-scratch (⭐ 0)
+2025-05-14 20:22:43,887 - INFO - 找到工具: Kong/kong (⭐ 0)
+2025-05-14 20:22:43,887 - INFO - 找到工具: FlowiseAI/Flowise (⭐ 0)
+2025-05-14 20:22:43,887 - INFO - 找到工具: microsoft/AI-For-Beginners (⭐ 0)
+2025-05-14 20:22:43,888 - INFO - 找到工具: XingangPan/DragGAN (⭐ 0)
+2025-05-14 20:22:43,888 - INFO - 找到工具: explosion/spaCy (⭐ 0)
+2025-05-14 20:22:43,888 - INFO - 找到工具: facebookresearch/fairseq (⭐ 0)
+2025-05-14 20:22:43,888 - INFO - 找到工具: AMAI-GmbH/AI-Expert-Roadmap (⭐ 0)
+2025-05-14 20:22:43,888 - INFO - 找到工具: Lightning-AI/pytorch-lightning (⭐ 0)
+2025-05-14 20:22:43,889 - INFO - 找到工具: ZuzooVn/machine-learning-for-software-engineers (⭐ 0)
+2025-05-14 20:22:43,889 - INFO - 找到工具: feder-cr/Jobs_Applier_AI_Agent_AIHawk (⭐ 0)
+2025-05-14 20:22:43,889 - INFO - 找到工具: invoke-ai/InvokeAI (⭐ 0)
+2025-05-14 20:22:43,889 - INFO - 找到工具: microsoft/semantic-kernel (⭐ 0)
+2025-05-14 20:22:43,889 - INFO - 找到工具: ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code (⭐ 0)
+2025-05-14 20:22:43,890 - INFO - 找到工具: lucidrains/vit-pytorch (⭐ 0)
+2025-05-14 20:22:43,890 - INFO - 找到工具: ItzCrazyKns/Perplexica (⭐ 0)
+2025-05-14 20:22:43,890 - INFO - 找到工具: Tencent/ncnn (⭐ 0)
+2025-05-14 20:22:46,311 - INFO - 找到工具: tensorflow/tensorflow (⭐ 0)
+2025-05-14 20:22:46,311 - INFO - 找到工具: huggingface/transformers (⭐ 0)
+2025-05-14 20:22:46,312 - INFO - 找到工具: pytorch/pytorch (⭐ 0)
+2025-05-14 20:22:46,312 - INFO - 找到工具: netdata/netdata (⭐ 0)
+2025-05-14 20:22:46,312 - INFO - 找到工具: microsoft/ML-For-Beginners (⭐ 0)
+2025-05-14 20:22:46,312 - INFO - 找到工具: d2l-ai/d2l-zh (⭐ 0)
+2025-05-14 20:22:46,312 - INFO - 找到工具: Developer-Y/cs-video-courses (⭐ 0)
+2025-05-14 20:22:46,313 - INFO - 找到工具: tesseract-ocr/tesseract (⭐ 0)
+2025-05-14 20:22:46,313 - INFO - 找到工具: keras-team/keras (⭐ 0)
+2025-05-14 20:22:46,313 - INFO - 找到工具: scikit-learn/scikit-learn (⭐ 0)
+2025-05-14 20:22:46,313 - INFO - 找到工具: binhnguyennus/awesome-scalability (⭐ 0)
+2025-05-14 20:22:46,313 - INFO - 找到工具: labmlai/annotated_deep_learning_paper_implementations (⭐ 0)
+2025-05-14 20:22:46,314 - INFO - 找到工具: ageitgey/face_recognition (⭐ 0)
+2025-05-14 20:22:46,314 - INFO - 找到工具: deepfakes/faceswap (⭐ 0)
+2025-05-14 20:22:46,314 - INFO - 找到工具: ultralytics/yolov5 (⭐ 0)
+2025-05-14 20:22:46,314 - INFO - 找到工具: mlabonne/llm-course (⭐ 0)
+2025-05-14 20:22:46,315 - INFO - 找到工具: Avik-Jain/100-Days-Of-ML-Code (⭐ 0)
+2025-05-14 20:22:46,315 - INFO - 找到工具: JuliaLang/julia (⭐ 0)
+2025-05-14 20:22:46,315 - INFO - 找到工具: aymericdamien/TensorFlow-Examples (⭐ 0)
+2025-05-14 20:22:46,315 - INFO - 找到工具: OpenBB-finance/OpenBB (⭐ 0)
+2025-05-14 20:22:48,897 - INFO - 找到工具: tensorflow/tensorflow (⭐ 0)
+2025-05-14 20:22:48,897 - INFO - 找到工具: AUTOMATIC1111/stable-diffusion-webui (⭐ 0)
+2025-05-14 20:22:48,897 - INFO - 找到工具: huggingface/transformers (⭐ 0)
+2025-05-14 20:22:48,898 - INFO - 找到工具: pytorch/pytorch (⭐ 0)
+2025-05-14 20:22:48,898 - INFO - 找到工具: opencv/opencv (⭐ 0)
+2025-05-14 20:22:48,898 - INFO - 找到工具: d2l-ai/d2l-zh (⭐ 0)
+2025-05-14 20:22:48,898 - INFO - 找到工具: Developer-Y/cs-video-courses (⭐ 0)
+2025-05-14 20:22:48,898 - INFO - 找到工具: keras-team/keras (⭐ 0)
+2025-05-14 20:22:48,899 - INFO - 找到工具: labmlai/annotated_deep_learning_paper_implementations (⭐ 0)
+2025-05-14 20:22:48,899 - INFO - 找到工具: dair-ai/Prompt-Engineering-Guide (⭐ 0)
+2025-05-14 20:22:48,899 - INFO - 找到工具: CorentinJ/Real-Time-Voice-Cloning (⭐ 0)
+2025-05-14 20:22:48,899 - INFO - 找到工具: deepfakes/faceswap (⭐ 0)
+2025-05-14 20:22:48,899 - INFO - 找到工具: ultralytics/yolov5 (⭐ 0)
+2025-05-14 20:22:48,900 - INFO - 找到工具: infiniflow/ragflow (⭐ 0)
+2025-05-14 20:22:48,900 - INFO - 找到工具: Avik-Jain/100-Days-Of-ML-Code (⭐ 0)
+2025-05-14 20:22:48,900 - INFO - 找到工具: aymericdamien/TensorFlow-Examples (⭐ 0)
+2025-05-14 20:22:48,900 - INFO - 找到工具: hpcaitech/ColossalAI (⭐ 0)
+2025-05-14 20:22:48,901 - INFO - 找到工具: ultralytics/ultralytics (⭐ 0)
+2025-05-14 20:22:48,901 - INFO - 找到工具: coqui-ai/TTS (⭐ 0)
+2025-05-14 20:22:48,901 - INFO - 找到工具: streamlit/streamlit (⭐ 0)
+2025-05-14 20:22:50,421 - INFO - 从 GitHub 收集到 80 个工具
+2025-05-14 20:22:50,422 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,422 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,422 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,422 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,422 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,423 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,423 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,423 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,423 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,423 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,423 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,423 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,423 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,423 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,423 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,423 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,424 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,425 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,426 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,427 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,427 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,427 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,427 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,427 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,427 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,427 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,427 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,427 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,427 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,428 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:22:50,429 - ERROR - 保存工具到数据库时出错: table tools has no column named stars
+2025-05-14 20:24:01,554 - INFO - 开始收集AI工具信息...
+2025-05-14 20:24:02,619 - INFO - 找到工具: browser-use/browser-use (⭐ 0)
+2025-05-14 20:24:02,619 - INFO - 找到工具: plandex-ai/plandex (⭐ 0)
+2025-05-14 20:24:02,620 - INFO - 找到工具: nanobrowser/nanobrowser (⭐ 0)
+2025-05-14 20:24:02,620 - INFO - 找到工具: steel-dev/steel-browser (⭐ 0)
+2025-05-14 20:24:02,620 - INFO - 找到工具: mahseema/awesome-ai-tools (⭐ 0)
+2025-05-14 20:24:02,620 - INFO - 找到工具: StreetLamb/tribe (⭐ 0)
+2025-05-14 20:24:02,620 - INFO - 找到工具: bytebot-ai/bytebot (⭐ 0)
+2025-05-14 20:24:02,621 - INFO - 找到工具: superiorlu/AITreasureBox (⭐ 0)
+2025-05-14 20:24:02,621 - INFO - 找到工具: browserable/browserable (⭐ 0)
+2025-05-14 20:24:02,621 - INFO - 找到工具: Mintplex-Labs/openai-assistant-swarm (⭐ 0)
+2025-05-14 20:24:02,621 - INFO - 找到工具: sigoden/llm-functions (⭐ 0)
+2025-05-14 20:24:02,622 - INFO - 找到工具: meetpateltech/AI-Infinity (⭐ 0)
+2025-05-14 20:24:02,622 - INFO - 找到工具: deepset-ai/haystack-cookbook (⭐ 0)
+2025-05-14 20:24:02,622 - INFO - 找到工具: suitedaces/computer-agent (⭐ 0)
+2025-05-14 20:24:02,622 - INFO - 找到工具: pingan8787/awesome-ai-tools (⭐ 0)
+2025-05-14 20:24:02,622 - INFO - 找到工具: suncloudsmoon/awesome-open-source-ai (⭐ 0)
+2025-05-14 20:24:02,622 - INFO - 找到工具: openbestof/awesome-ai (⭐ 0)
+2025-05-14 20:24:02,623 - INFO - 找到工具: DiscovAI/DiscovAI-search (⭐ 0)
+2025-05-14 20:24:02,623 - INFO - 找到工具: langchain-ai/langchainjs-mcp-adapters (⭐ 0)
+2025-05-14 20:24:02,623 - INFO - 找到工具: aidatatools/ollama-benchmark (⭐ 0)
+2025-05-14 20:24:05,605 - INFO - 找到工具: Significant-Gravitas/AutoGPT (⭐ 0)
+2025-05-14 20:24:05,606 - INFO - 找到工具: hacksider/Deep-Live-Cam (⭐ 0)
+2025-05-14 20:24:05,606 - INFO - 找到工具: All-Hands-AI/OpenHands (⭐ 0)
+2025-05-14 20:24:05,606 - INFO - 找到工具: rasbt/LLMs-from-scratch (⭐ 0)
+2025-05-14 20:24:05,606 - INFO - 找到工具: Kong/kong (⭐ 0)
+2025-05-14 20:24:05,606 - INFO - 找到工具: FlowiseAI/Flowise (⭐ 0)
+2025-05-14 20:24:05,607 - INFO - 找到工具: microsoft/AI-For-Beginners (⭐ 0)
+2025-05-14 20:24:05,607 - INFO - 找到工具: XingangPan/DragGAN (⭐ 0)
+2025-05-14 20:24:05,607 - INFO - 找到工具: explosion/spaCy (⭐ 0)
+2025-05-14 20:24:05,607 - INFO - 找到工具: facebookresearch/fairseq (⭐ 0)
+2025-05-14 20:24:05,608 - INFO - 找到工具: AMAI-GmbH/AI-Expert-Roadmap (⭐ 0)
+2025-05-14 20:24:05,608 - INFO - 找到工具: Lightning-AI/pytorch-lightning (⭐ 0)
+2025-05-14 20:24:05,608 - INFO - 找到工具: ZuzooVn/machine-learning-for-software-engineers (⭐ 0)
+2025-05-14 20:24:05,608 - INFO - 找到工具: feder-cr/Jobs_Applier_AI_Agent_AIHawk (⭐ 0)
+2025-05-14 20:24:05,608 - INFO - 找到工具: invoke-ai/InvokeAI (⭐ 0)
+2025-05-14 20:24:05,609 - INFO - 找到工具: microsoft/semantic-kernel (⭐ 0)
+2025-05-14 20:24:05,609 - INFO - 找到工具: ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code (⭐ 0)
+2025-05-14 20:24:05,609 - INFO - 找到工具: lucidrains/vit-pytorch (⭐ 0)
+2025-05-14 20:24:05,609 - INFO - 找到工具: ItzCrazyKns/Perplexica (⭐ 0)
+2025-05-14 20:24:05,609 - INFO - 找到工具: Tencent/ncnn (⭐ 0)
+2025-05-14 20:24:08,833 - INFO - 找到工具: tensorflow/tensorflow (⭐ 0)
+2025-05-14 20:24:08,834 - INFO - 找到工具: huggingface/transformers (⭐ 0)
+2025-05-14 20:24:08,834 - INFO - 找到工具: pytorch/pytorch (⭐ 0)
+2025-05-14 20:24:08,834 - INFO - 找到工具: netdata/netdata (⭐ 0)
+2025-05-14 20:24:08,834 - INFO - 找到工具: microsoft/ML-For-Beginners (⭐ 0)
+2025-05-14 20:24:08,834 - INFO - 找到工具: d2l-ai/d2l-zh (⭐ 0)
+2025-05-14 20:24:08,835 - INFO - 找到工具: Developer-Y/cs-video-courses (⭐ 0)
+2025-05-14 20:24:08,835 - INFO - 找到工具: tesseract-ocr/tesseract (⭐ 0)
+2025-05-14 20:24:08,835 - INFO - 找到工具: keras-team/keras (⭐ 0)
+2025-05-14 20:24:08,835 - INFO - 找到工具: scikit-learn/scikit-learn (⭐ 0)
+2025-05-14 20:24:08,836 - INFO - 找到工具: binhnguyennus/awesome-scalability (⭐ 0)
+2025-05-14 20:24:08,836 - INFO - 找到工具: labmlai/annotated_deep_learning_paper_implementations (⭐ 0)
+2025-05-14 20:24:08,836 - INFO - 找到工具: ageitgey/face_recognition (⭐ 0)
+2025-05-14 20:24:08,836 - INFO - 找到工具: deepfakes/faceswap (⭐ 0)
+2025-05-14 20:24:08,836 - INFO - 找到工具: ultralytics/yolov5 (⭐ 0)
+2025-05-14 20:24:08,837 - INFO - 找到工具: mlabonne/llm-course (⭐ 0)
+2025-05-14 20:24:08,837 - INFO - 找到工具: Avik-Jain/100-Days-Of-ML-Code (⭐ 0)
+2025-05-14 20:24:08,837 - INFO - 找到工具: JuliaLang/julia (⭐ 0)
+2025-05-14 20:24:08,837 - INFO - 找到工具: aymericdamien/TensorFlow-Examples (⭐ 0)
+2025-05-14 20:24:08,837 - INFO - 找到工具: OpenBB-finance/OpenBB (⭐ 0)
+2025-05-14 20:24:11,901 - INFO - 找到工具: tensorflow/tensorflow (⭐ 0)
+2025-05-14 20:24:11,902 - INFO - 找到工具: AUTOMATIC1111/stable-diffusion-webui (⭐ 0)
+2025-05-14 20:24:11,902 - INFO - 找到工具: huggingface/transformers (⭐ 0)
+2025-05-14 20:24:11,902 - INFO - 找到工具: pytorch/pytorch (⭐ 0)
+2025-05-14 20:24:11,902 - INFO - 找到工具: opencv/opencv (⭐ 0)
+2025-05-14 20:24:11,902 - INFO - 找到工具: d2l-ai/d2l-zh (⭐ 0)
+2025-05-14 20:24:11,903 - INFO - 找到工具: Developer-Y/cs-video-courses (⭐ 0)
+2025-05-14 20:24:11,903 - INFO - 找到工具: keras-team/keras (⭐ 0)
+2025-05-14 20:24:11,903 - INFO - 找到工具: labmlai/annotated_deep_learning_paper_implementations (⭐ 0)
+2025-05-14 20:24:11,903 - INFO - 找到工具: dair-ai/Prompt-Engineering-Guide (⭐ 0)
+2025-05-14 20:24:11,903 - INFO - 找到工具: CorentinJ/Real-Time-Voice-Cloning (⭐ 0)
+2025-05-14 20:24:11,904 - INFO - 找到工具: deepfakes/faceswap (⭐ 0)
+2025-05-14 20:24:11,904 - INFO - 找到工具: ultralytics/yolov5 (⭐ 0)
+2025-05-14 20:24:11,904 - INFO - 找到工具: infiniflow/ragflow (⭐ 0)
+2025-05-14 20:24:11,904 - INFO - 找到工具: Avik-Jain/100-Days-Of-ML-Code (⭐ 0)
+2025-05-14 20:24:11,905 - INFO - 找到工具: aymericdamien/TensorFlow-Examples (⭐ 0)
+2025-05-14 20:24:11,905 - INFO - 找到工具: hpcaitech/ColossalAI (⭐ 0)
+2025-05-14 20:24:11,905 - INFO - 找到工具: ultralytics/ultralytics (⭐ 0)
+2025-05-14 20:24:11,905 - INFO - 找到工具: coqui-ai/TTS (⭐ 0)
+2025-05-14 20:24:11,905 - INFO - 找到工具: streamlit/streamlit (⭐ 0)
+2025-05-14 20:24:13,179 - INFO - 从 GitHub 收集到 80 个工具
+2025-05-14 20:24:13,181 - INFO - 所有数据已保存到: output/ai_tools_20250514_202413.md
+2025-05-14 20:33:34,898 - INFO - 开始收集AI工具信息...
+2025-05-14 20:33:44,904 - INFO - 从 GitHub 收集到 0 个工具
+2025-05-14 20:33:44,904 - WARNING - 未收集到任何工具信息
+2025-05-14 20:35:56,508 - INFO - 开始收集AI工具信息...
+2025-05-14 20:36:07,208 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-14 20:36:07,209 - WARNING - 未收集到任何工具信息
+2025-05-14 20:58:00,917 - INFO - 开始收集AI工具信息...
+2025-05-14 20:58:10,823 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-14 20:58:10,824 - WARNING - 未收集到任何工具信息
+2025-05-14 21:41:08,740 - INFO - 开始收集AI工具信息...
+2025-05-14 21:41:20,194 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-14 21:41:20,195 - WARNING - 未收集到任何工具信息
+2025-05-14 21:43:57,286 - INFO - 开始收集AI工具信息...
+2025-05-14 21:44:07,186 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-14 21:44:07,186 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-14 21:44:07,186 - WARNING - 未收集到任何工具信息
+2025-05-14 21:46:25,430 - INFO - 开始收集AI工具信息...
+2025-05-14 21:46:42,822 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-14 21:46:42,822 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-14 21:46:42,822 - WARNING - 未收集到任何工具信息
+2025-05-14 21:51:08,250 - INFO - 开始收集AI工具信息...
+2025-05-14 21:51:26,634 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-14 21:51:26,635 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-14 21:51:26,635 - WARNING - 未收集到任何工具信息
+2025-05-16 15:12:26,891 - INFO - 开始收集AI工具信息...
+2025-05-16 15:12:46,822 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:12:46,823 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:12:46,823 - WARNING - 未收集到任何工具信息
+2025-05-16 15:17:31,719 - INFO - 开始收集AI工具信息...
+2025-05-16 15:17:51,380 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:17:51,381 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:17:51,381 - WARNING - 未收集到任何工具信息
+2025-05-16 15:19:01,735 - INFO - 开始收集AI工具信息...
+2025-05-16 15:19:02,763 - INFO - 主题 ai-tools 找到 0 个仓库卡片
+2025-05-16 15:19:02,763 - WARNING - 主题 ai-tools 页面未找到任何仓库卡片，已保存页面内容到 debug_ai-tools_page.html
+2025-05-16 15:19:03,814 - INFO - 主题 artificial-intelligence 找到 0 个仓库卡片
+2025-05-16 15:19:03,815 - WARNING - 主题 artificial-intelligence 页面未找到任何仓库卡片，已保存页面内容到 debug_artificial-intelligence_page.html
+2025-05-16 15:19:04,862 - INFO - 主题 machine-learning 找到 0 个仓库卡片
+2025-05-16 15:19:04,863 - WARNING - 主题 machine-learning 页面未找到任何仓库卡片，已保存页面内容到 debug_machine-learning_page.html
+2025-05-16 15:19:05,861 - INFO - 主题 deep-learning 找到 0 个仓库卡片
+2025-05-16 15:19:05,862 - WARNING - 主题 deep-learning 页面未找到任何仓库卡片，已保存页面内容到 debug_deep-learning_page.html
+2025-05-16 15:19:05,862 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:19:05,863 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:19:05,863 - WARNING - 未收集到任何工具信息
+2025-05-16 15:21:15,405 - INFO - 开始收集AI工具信息...
+2025-05-16 15:21:25,431 - INFO - 主题 ai-tools 找到 20 个仓库卡片
+2025-05-16 15:21:32,504 - INFO - 主题 artificial-intelligence 找到 20 个仓库卡片
+2025-05-16 15:21:42,398 - INFO - 主题 machine-learning 找到 20 个仓库卡片
+2025-05-16 15:21:52,524 - INFO - 主题 deep-learning 找到 20 个仓库卡片
+2025-05-16 15:21:52,526 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:21:52,526 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:21:52,526 - WARNING - 未收集到任何工具信息
+2025-05-16 15:22:54,893 - INFO - 开始收集AI工具信息...
+2025-05-16 15:23:03,258 - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-16 15:23:04,065 - DEBUG - https://github.com:443 "GET /topics/ai-tools HTTP/1.1" 200 None
+2025-05-16 15:23:04,140 - INFO - 主题 ai-tools 找到 20 个仓库卡片
+2025-05-16 15:23:04,140 - DEBUG - 找到仓库路径: /browser-use
+2025-05-16 15:23:04,140 - WARNING - 仓库路径格式不正确: /browser-use
+2025-05-16 15:23:04,140 - DEBUG - 找到仓库路径: /plandex-ai
+2025-05-16 15:23:04,140 - WARNING - 仓库路径格式不正确: /plandex-ai
+2025-05-16 15:23:04,140 - DEBUG - 找到仓库路径: /nanobrowser
+2025-05-16 15:23:04,140 - WARNING - 仓库路径格式不正确: /nanobrowser
+2025-05-16 15:23:04,140 - DEBUG - 找到仓库路径: /steel-dev
+2025-05-16 15:23:04,140 - WARNING - 仓库路径格式不正确: /steel-dev
+2025-05-16 15:23:04,141 - DEBUG - 找到仓库路径: /mahseema
+2025-05-16 15:23:04,141 - WARNING - 仓库路径格式不正确: /mahseema
+2025-05-16 15:23:04,141 - DEBUG - 找到仓库路径: /StreetLamb
+2025-05-16 15:23:04,141 - WARNING - 仓库路径格式不正确: /StreetLamb
+2025-05-16 15:23:04,141 - DEBUG - 找到仓库路径: /bytebot-ai
+2025-05-16 15:23:04,141 - WARNING - 仓库路径格式不正确: /bytebot-ai
+2025-05-16 15:23:04,141 - DEBUG - 找到仓库路径: /superiorlu
+2025-05-16 15:23:04,141 - WARNING - 仓库路径格式不正确: /superiorlu
+2025-05-16 15:23:04,141 - DEBUG - 找到仓库路径: /browserable
+2025-05-16 15:23:04,141 - WARNING - 仓库路径格式不正确: /browserable
+2025-05-16 15:23:04,141 - DEBUG - 找到仓库路径: /sigoden
+2025-05-16 15:23:04,141 - WARNING - 仓库路径格式不正确: /sigoden
+2025-05-16 15:23:04,141 - DEBUG - 找到仓库路径: /Mintplex-Labs
+2025-05-16 15:23:04,141 - WARNING - 仓库路径格式不正确: /Mintplex-Labs
+2025-05-16 15:23:04,141 - DEBUG - 找到仓库路径: /meetpateltech
+2025-05-16 15:23:04,141 - WARNING - 仓库路径格式不正确: /meetpateltech
+2025-05-16 15:23:04,141 - DEBUG - 找到仓库路径: /deepset-ai
+2025-05-16 15:23:04,142 - WARNING - 仓库路径格式不正确: /deepset-ai
+2025-05-16 15:23:04,142 - DEBUG - 找到仓库路径: /suitedaces
+2025-05-16 15:23:04,142 - WARNING - 仓库路径格式不正确: /suitedaces
+2025-05-16 15:23:04,142 - DEBUG - 找到仓库路径: /pingan8787
+2025-05-16 15:23:04,142 - WARNING - 仓库路径格式不正确: /pingan8787
+2025-05-16 15:23:04,142 - DEBUG - 找到仓库路径: /suncloudsmoon
+2025-05-16 15:23:04,142 - WARNING - 仓库路径格式不正确: /suncloudsmoon
+2025-05-16 15:23:04,142 - DEBUG - 找到仓库路径: /openbestof
+2025-05-16 15:23:04,142 - WARNING - 仓库路径格式不正确: /openbestof
+2025-05-16 15:23:04,142 - DEBUG - 找到仓库路径: /langchain-ai
+2025-05-16 15:23:04,142 - WARNING - 仓库路径格式不正确: /langchain-ai
+2025-05-16 15:23:04,142 - DEBUG - 找到仓库路径: /DiscovAI
+2025-05-16 15:23:04,142 - WARNING - 仓库路径格式不正确: /DiscovAI
+2025-05-16 15:23:04,142 - DEBUG - 找到仓库路径: /aidatatools
+2025-05-16 15:23:04,142 - WARNING - 仓库路径格式不正确: /aidatatools
+2025-05-16 15:23:09,321 - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-16 15:23:11,326 - DEBUG - https://github.com:443 "GET /topics/artificial-intelligence HTTP/1.1" 200 None
+2025-05-16 15:23:11,418 - INFO - 主题 artificial-intelligence 找到 20 个仓库卡片
+2025-05-16 15:23:11,418 - DEBUG - 找到仓库路径: /Significant-Gravitas
+2025-05-16 15:23:11,418 - WARNING - 仓库路径格式不正确: /Significant-Gravitas
+2025-05-16 15:23:11,418 - DEBUG - 找到仓库路径: /hacksider
+2025-05-16 15:23:11,418 - WARNING - 仓库路径格式不正确: /hacksider
+2025-05-16 15:23:11,418 - DEBUG - 找到仓库路径: /All-Hands-AI
+2025-05-16 15:23:11,418 - WARNING - 仓库路径格式不正确: /All-Hands-AI
+2025-05-16 15:23:11,419 - DEBUG - 找到仓库路径: /rasbt
+2025-05-16 15:23:11,419 - WARNING - 仓库路径格式不正确: /rasbt
+2025-05-16 15:23:11,419 - DEBUG - 找到仓库路径: /Kong
+2025-05-16 15:23:11,419 - WARNING - 仓库路径格式不正确: /Kong
+2025-05-16 15:23:11,419 - DEBUG - 找到仓库路径: /FlowiseAI
+2025-05-16 15:23:11,419 - WARNING - 仓库路径格式不正确: /FlowiseAI
+2025-05-16 15:23:11,419 - DEBUG - 找到仓库路径: /microsoft
+2025-05-16 15:23:11,419 - WARNING - 仓库路径格式不正确: /microsoft
+2025-05-16 15:23:11,419 - DEBUG - 找到仓库路径: /XingangPan
+2025-05-16 15:23:11,419 - WARNING - 仓库路径格式不正确: /XingangPan
+2025-05-16 15:23:11,419 - DEBUG - 找到仓库路径: /explosion
+2025-05-16 15:23:11,419 - WARNING - 仓库路径格式不正确: /explosion
+2025-05-16 15:23:11,419 - DEBUG - 找到仓库路径: /facebookresearch
+2025-05-16 15:23:11,419 - WARNING - 仓库路径格式不正确: /facebookresearch
+2025-05-16 15:23:11,419 - DEBUG - 找到仓库路径: /AMAI-GmbH
+2025-05-16 15:23:11,419 - WARNING - 仓库路径格式不正确: /AMAI-GmbH
+2025-05-16 15:23:11,420 - DEBUG - 找到仓库路径: /Lightning-AI
+2025-05-16 15:23:11,420 - WARNING - 仓库路径格式不正确: /Lightning-AI
+2025-05-16 15:23:11,420 - DEBUG - 找到仓库路径: /ZuzooVn
+2025-05-16 15:23:11,420 - WARNING - 仓库路径格式不正确: /ZuzooVn
+2025-05-16 15:23:11,420 - DEBUG - 找到仓库路径: /feder-cr
+2025-05-16 15:23:11,420 - WARNING - 仓库路径格式不正确: /feder-cr
+2025-05-16 15:23:11,420 - DEBUG - 找到仓库路径: /invoke-ai
+2025-05-16 15:23:11,420 - WARNING - 仓库路径格式不正确: /invoke-ai
+2025-05-16 15:23:11,420 - DEBUG - 找到仓库路径: /microsoft
+2025-05-16 15:23:11,420 - WARNING - 仓库路径格式不正确: /microsoft
+2025-05-16 15:23:11,420 - DEBUG - 找到仓库路径: /ashishpatel26
+2025-05-16 15:23:11,420 - WARNING - 仓库路径格式不正确: /ashishpatel26
+2025-05-16 15:23:11,420 - DEBUG - 找到仓库路径: /lucidrains
+2025-05-16 15:23:11,420 - WARNING - 仓库路径格式不正确: /lucidrains
+2025-05-16 15:23:11,420 - DEBUG - 找到仓库路径: /ItzCrazyKns
+2025-05-16 15:23:11,420 - WARNING - 仓库路径格式不正确: /ItzCrazyKns
+2025-05-16 15:23:11,420 - DEBUG - 找到仓库路径: /Tencent
+2025-05-16 15:23:11,420 - WARNING - 仓库路径格式不正确: /Tencent
+2025-05-16 15:23:18,713 - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-16 15:23:19,929 - DEBUG - https://github.com:443 "GET /topics/machine-learning HTTP/1.1" 200 None
+2025-05-16 15:23:20,023 - INFO - 主题 machine-learning 找到 20 个仓库卡片
+2025-05-16 15:23:20,024 - DEBUG - 找到仓库路径: /tensorflow
+2025-05-16 15:23:20,024 - WARNING - 仓库路径格式不正确: /tensorflow
+2025-05-16 15:23:20,024 - DEBUG - 找到仓库路径: /huggingface
+2025-05-16 15:23:20,024 - WARNING - 仓库路径格式不正确: /huggingface
+2025-05-16 15:23:20,024 - DEBUG - 找到仓库路径: /pytorch
+2025-05-16 15:23:20,024 - WARNING - 仓库路径格式不正确: /pytorch
+2025-05-16 15:23:20,024 - DEBUG - 找到仓库路径: /netdata
+2025-05-16 15:23:20,024 - WARNING - 仓库路径格式不正确: /netdata
+2025-05-16 15:23:20,024 - DEBUG - 找到仓库路径: /microsoft
+2025-05-16 15:23:20,024 - WARNING - 仓库路径格式不正确: /microsoft
+2025-05-16 15:23:20,024 - DEBUG - 找到仓库路径: /d2l-ai
+2025-05-16 15:23:20,024 - WARNING - 仓库路径格式不正确: /d2l-ai
+2025-05-16 15:23:20,024 - DEBUG - 找到仓库路径: /Developer-Y
+2025-05-16 15:23:20,024 - WARNING - 仓库路径格式不正确: /Developer-Y
+2025-05-16 15:23:20,024 - DEBUG - 找到仓库路径: /tesseract-ocr
+2025-05-16 15:23:20,024 - WARNING - 仓库路径格式不正确: /tesseract-ocr
+2025-05-16 15:23:20,025 - DEBUG - 找到仓库路径: /keras-team
+2025-05-16 15:23:20,025 - WARNING - 仓库路径格式不正确: /keras-team
+2025-05-16 15:23:20,025 - DEBUG - 找到仓库路径: /scikit-learn
+2025-05-16 15:23:20,025 - WARNING - 仓库路径格式不正确: /scikit-learn
+2025-05-16 15:23:20,025 - DEBUG - 找到仓库路径: /binhnguyennus
+2025-05-16 15:23:20,025 - WARNING - 仓库路径格式不正确: /binhnguyennus
+2025-05-16 15:23:20,025 - DEBUG - 找到仓库路径: /labmlai
+2025-05-16 15:23:20,025 - WARNING - 仓库路径格式不正确: /labmlai
+2025-05-16 15:23:20,025 - DEBUG - 找到仓库路径: /ageitgey
+2025-05-16 15:23:20,025 - WARNING - 仓库路径格式不正确: /ageitgey
+2025-05-16 15:23:20,025 - DEBUG - 找到仓库路径: /deepfakes
+2025-05-16 15:23:20,025 - WARNING - 仓库路径格式不正确: /deepfakes
+2025-05-16 15:23:20,025 - DEBUG - 找到仓库路径: /ultralytics
+2025-05-16 15:23:20,025 - WARNING - 仓库路径格式不正确: /ultralytics
+2025-05-16 15:23:20,025 - DEBUG - 找到仓库路径: /mlabonne
+2025-05-16 15:23:20,025 - WARNING - 仓库路径格式不正确: /mlabonne
+2025-05-16 15:23:20,025 - DEBUG - 找到仓库路径: /Avik-Jain
+2025-05-16 15:23:20,025 - WARNING - 仓库路径格式不正确: /Avik-Jain
+2025-05-16 15:23:20,026 - DEBUG - 找到仓库路径: /JuliaLang
+2025-05-16 15:23:20,026 - WARNING - 仓库路径格式不正确: /JuliaLang
+2025-05-16 15:23:20,026 - DEBUG - 找到仓库路径: /aymericdamien
+2025-05-16 15:23:20,026 - WARNING - 仓库路径格式不正确: /aymericdamien
+2025-05-16 15:23:20,026 - DEBUG - 找到仓库路径: /OpenBB-finance
+2025-05-16 15:23:20,026 - WARNING - 仓库路径格式不正确: /OpenBB-finance
+2025-05-16 15:23:28,825 - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-16 15:23:29,757 - DEBUG - https://github.com:443 "GET /topics/deep-learning HTTP/1.1" 200 None
+2025-05-16 15:23:29,840 - INFO - 主题 deep-learning 找到 20 个仓库卡片
+2025-05-16 15:23:29,840 - DEBUG - 找到仓库路径: /tensorflow
+2025-05-16 15:23:29,840 - WARNING - 仓库路径格式不正确: /tensorflow
+2025-05-16 15:23:29,840 - DEBUG - 找到仓库路径: /AUTOMATIC1111
+2025-05-16 15:23:29,840 - WARNING - 仓库路径格式不正确: /AUTOMATIC1111
+2025-05-16 15:23:29,841 - DEBUG - 找到仓库路径: /huggingface
+2025-05-16 15:23:29,841 - WARNING - 仓库路径格式不正确: /huggingface
+2025-05-16 15:23:29,841 - DEBUG - 找到仓库路径: /pytorch
+2025-05-16 15:23:29,841 - WARNING - 仓库路径格式不正确: /pytorch
+2025-05-16 15:23:29,841 - DEBUG - 找到仓库路径: /opencv
+2025-05-16 15:23:29,841 - WARNING - 仓库路径格式不正确: /opencv
+2025-05-16 15:23:29,841 - DEBUG - 找到仓库路径: /d2l-ai
+2025-05-16 15:23:29,841 - WARNING - 仓库路径格式不正确: /d2l-ai
+2025-05-16 15:23:29,841 - DEBUG - 找到仓库路径: /Developer-Y
+2025-05-16 15:23:29,841 - WARNING - 仓库路径格式不正确: /Developer-Y
+2025-05-16 15:23:29,841 - DEBUG - 找到仓库路径: /keras-team
+2025-05-16 15:23:29,841 - WARNING - 仓库路径格式不正确: /keras-team
+2025-05-16 15:23:29,841 - DEBUG - 找到仓库路径: /labmlai
+2025-05-16 15:23:29,841 - WARNING - 仓库路径格式不正确: /labmlai
+2025-05-16 15:23:29,841 - DEBUG - 找到仓库路径: /dair-ai
+2025-05-16 15:23:29,841 - WARNING - 仓库路径格式不正确: /dair-ai
+2025-05-16 15:23:29,841 - DEBUG - 找到仓库路径: /CorentinJ
+2025-05-16 15:23:29,841 - WARNING - 仓库路径格式不正确: /CorentinJ
+2025-05-16 15:23:29,842 - DEBUG - 找到仓库路径: /deepfakes
+2025-05-16 15:23:29,842 - WARNING - 仓库路径格式不正确: /deepfakes
+2025-05-16 15:23:29,842 - DEBUG - 找到仓库路径: /ultralytics
+2025-05-16 15:23:29,842 - WARNING - 仓库路径格式不正确: /ultralytics
+2025-05-16 15:23:29,842 - DEBUG - 找到仓库路径: /infiniflow
+2025-05-16 15:23:29,842 - WARNING - 仓库路径格式不正确: /infiniflow
+2025-05-16 15:23:29,842 - DEBUG - 找到仓库路径: /Avik-Jain
+2025-05-16 15:23:29,842 - WARNING - 仓库路径格式不正确: /Avik-Jain
+2025-05-16 15:23:29,842 - DEBUG - 找到仓库路径: /aymericdamien
+2025-05-16 15:23:29,842 - WARNING - 仓库路径格式不正确: /aymericdamien
+2025-05-16 15:23:29,842 - DEBUG - 找到仓库路径: /hpcaitech
+2025-05-16 15:23:29,842 - WARNING - 仓库路径格式不正确: /hpcaitech
+2025-05-16 15:23:29,842 - DEBUG - 找到仓库路径: /ultralytics
+2025-05-16 15:23:29,842 - WARNING - 仓库路径格式不正确: /ultralytics
+2025-05-16 15:23:29,842 - DEBUG - 找到仓库路径: /coqui-ai
+2025-05-16 15:23:29,842 - WARNING - 仓库路径格式不正确: /coqui-ai
+2025-05-16 15:23:29,842 - DEBUG - 找到仓库路径: /streamlit
+2025-05-16 15:23:29,842 - WARNING - 仓库路径格式不正确: /streamlit
+2025-05-16 15:23:29,843 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:23:29,843 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:23:29,843 - WARNING - 未收集到任何工具信息
+2025-05-16 15:36:31,567 - INFO - 开始收集AI工具信息...
+2025-05-16 15:36:40,546 - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-16 15:36:41,421 - DEBUG - https://github.com:443 "GET /topics/ai-tools HTTP/1.1" 200 None
+2025-05-16 15:36:41,514 - INFO - 主题 ai-tools 找到 20 个仓库卡片
+2025-05-16 15:36:41,514 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,515 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,516 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,516 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,516 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,516 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,516 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,516 - WARNING - 未找到仓库链接
+2025-05-16 15:36:41,516 - WARNING - 未找到仓库链接
+2025-05-16 15:36:47,111 - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-16 15:36:48,076 - DEBUG - https://github.com:443 "GET /topics/artificial-intelligence HTTP/1.1" 200 None
+2025-05-16 15:36:48,162 - INFO - 主题 artificial-intelligence 找到 20 个仓库卡片
+2025-05-16 15:36:48,162 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,163 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,164 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,164 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,164 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,164 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,164 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,164 - WARNING - 未找到仓库链接
+2025-05-16 15:36:48,164 - WARNING - 未找到仓库链接
+2025-05-16 15:36:56,256 - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-16 15:36:57,293 - DEBUG - https://github.com:443 "GET /topics/machine-learning HTTP/1.1" 200 None
+2025-05-16 15:36:57,386 - INFO - 主题 machine-learning 找到 20 个仓库卡片
+2025-05-16 15:36:57,386 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,386 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,386 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,386 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,387 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,387 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,387 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,387 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,387 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,387 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,387 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,387 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,387 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,387 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,387 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,388 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,388 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,388 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,388 - WARNING - 未找到仓库链接
+2025-05-16 15:36:57,388 - WARNING - 未找到仓库链接
+2025-05-16 15:37:06,583 - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-05-16 15:37:07,473 - DEBUG - https://github.com:443 "GET /topics/deep-learning HTTP/1.1" 200 None
+2025-05-16 15:37:07,541 - INFO - 主题 deep-learning 找到 20 个仓库卡片
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,542 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,543 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,543 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,543 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,543 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,543 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,543 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,543 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,543 - WARNING - 未找到仓库链接
+2025-05-16 15:37:07,544 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:37:07,544 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:37:07,544 - WARNING - 未收集到任何工具信息
+2025-05-16 15:39:01,926 - INFO - 开始收集AI工具信息...
+2025-05-16 15:39:06,283 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:06,881 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Aai-tools&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:39:06,891 - INFO - 主题 ai-tools 找到 20 个仓库
+2025-05-16 15:39:06,894 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:07,190 - DEBUG - https://api.github.com:443 "GET /repos/browser-use/browser-use/topics HTTP/1.1" 200 96
+2025-05-16 15:39:07,191 - INFO - 找到新工具: browser-use / browser-use (⭐ 60301)
+2025-05-16 15:39:07,743 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:08,041 - DEBUG - https://api.github.com:443 "GET /repos/plandex-ai/plandex/topics HTTP/1.1" 200 139
+2025-05-16 15:39:08,044 - INFO - 找到新工具: plandex-ai / plandex (⭐ 13375)
+2025-05-16 15:39:08,651 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:09,005 - DEBUG - https://api.github.com:443 "GET /repos/nanobrowser/nanobrowser/topics HTTP/1.1" 200 155
+2025-05-16 15:39:09,009 - INFO - 找到新工具: nanobrowser / nanobrowser (⭐ 5551)
+2025-05-16 15:39:09,952 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:10,237 - DEBUG - https://api.github.com:443 "GET /repos/steel-dev/steel-browser/topics HTTP/1.1" 200 77
+2025-05-16 15:39:10,240 - INFO - 找到新工具: steel-dev / steel-browser (⭐ 4332)
+2025-05-16 15:39:11,176 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:11,475 - DEBUG - https://api.github.com:443 "GET /repos/mahseema/awesome-ai-tools/topics HTTP/1.1" 200 162
+2025-05-16 15:39:11,478 - INFO - 找到新工具: mahseema / awesome-ai-tools (⭐ 2423)
+2025-05-16 15:39:12,187 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:12,479 - DEBUG - https://api.github.com:443 "GET /repos/StreetLamb/tribe/topics HTTP/1.1" 200 168
+2025-05-16 15:39:12,483 - INFO - 找到新工具: StreetLamb / tribe (⭐ 992)
+2025-05-16 15:39:13,379 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:13,747 - DEBUG - https://api.github.com:443 "GET /repos/bytebot-ai/bytebot/topics HTTP/1.1" 200 132
+2025-05-16 15:39:13,751 - INFO - 找到新工具: bytebot-ai / bytebot (⭐ 625)
+2025-05-16 15:39:14,402 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:14,757 - DEBUG - https://api.github.com:443 "GET /repos/superiorlu/AITreasureBox/topics HTTP/1.1" 200 125
+2025-05-16 15:39:14,761 - INFO - 找到新工具: superiorlu / AITreasureBox (⭐ 587)
+2025-05-16 15:39:15,372 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:15,667 - DEBUG - https://api.github.com:443 "GET /repos/browserable/browserable/topics HTTP/1.1" 200 116
+2025-05-16 15:39:15,671 - INFO - 找到新工具: browserable / browserable (⭐ 562)
+2025-05-16 15:39:16,494 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:16,790 - DEBUG - https://api.github.com:443 "GET /repos/sigoden/llm-functions/topics HTTP/1.1" 200 101
+2025-05-16 15:39:16,793 - INFO - 找到新工具: sigoden / llm-functions (⭐ 527)
+2025-05-16 15:39:17,397 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:17,691 - DEBUG - https://api.github.com:443 "GET /repos/Mintplex-Labs/openai-assistant-swarm/topics HTTP/1.1" 200 163
+2025-05-16 15:39:17,694 - INFO - 找到新工具: Mintplex-Labs / openai-assistant-swarm (⭐ 524)
+2025-05-16 15:39:18,451 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:18,738 - DEBUG - https://api.github.com:443 "GET /repos/meetpateltech/AI-Infinity/topics HTTP/1.1" 200 59
+2025-05-16 15:39:18,741 - INFO - 找到新工具: meetpateltech / AI-Infinity (⭐ 500)
+2025-05-16 15:39:19,288 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:19,611 - DEBUG - https://api.github.com:443 "GET /repos/deepset-ai/haystack-cookbook/topics HTTP/1.1" 200 99
+2025-05-16 15:39:19,615 - INFO - 找到新工具: deepset-ai / haystack-cookbook (⭐ 468)
+2025-05-16 15:39:20,249 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:20,543 - DEBUG - https://api.github.com:443 "GET /repos/suitedaces/computer-agent/topics HTTP/1.1" 200 104
+2025-05-16 15:39:20,546 - INFO - 找到新工具: suitedaces / computer-agent (⭐ 449)
+2025-05-16 15:39:21,506 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:21,811 - DEBUG - https://api.github.com:443 "GET /repos/pingan8787/awesome-ai-tools/topics HTTP/1.1" 200 61
+2025-05-16 15:39:21,814 - INFO - 找到新工具: pingan8787 / awesome-ai-tools (⭐ 309)
+2025-05-16 15:39:22,783 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:23,098 - DEBUG - https://api.github.com:443 "GET /repos/suncloudsmoon/awesome-open-source-ai/topics HTTP/1.1" 200 88
+2025-05-16 15:39:23,101 - INFO - 找到新工具: suncloudsmoon / awesome-open-source-ai (⭐ 293)
+2025-05-16 15:39:24,088 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:24,410 - DEBUG - https://api.github.com:443 "GET /repos/openbestof/awesome-ai/topics HTTP/1.1" 200 130
+2025-05-16 15:39:24,414 - INFO - 找到新工具: openbestof / awesome-ai (⭐ 290)
+2025-05-16 15:39:25,025 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:25,327 - DEBUG - https://api.github.com:443 "GET /repos/langchain-ai/langchainjs-mcp-adapters/topics HTTP/1.1" 200 134
+2025-05-16 15:39:25,329 - INFO - 找到新工具: langchain-ai / langchainjs-mcp-adapters (⭐ 227)
+2025-05-16 15:39:25,990 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:26,329 - DEBUG - https://api.github.com:443 "GET /repos/DiscovAI/DiscovAI-search/topics HTTP/1.1" 200 143
+2025-05-16 15:39:26,333 - INFO - 找到新工具: DiscovAI / DiscovAI-search (⭐ 226)
+2025-05-16 15:39:26,933 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:27,228 - DEBUG - https://api.github.com:443 "GET /repos/aidatatools/ollama-benchmark/topics HTTP/1.1" 200 68
+2025-05-16 15:39:27,231 - INFO - 找到新工具: aidatatools / ollama-benchmark (⭐ 221)
+2025-05-16 15:39:30,305 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:30,956 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Aartificial-intelligence&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:39:30,971 - INFO - 主题 artificial-intelligence 找到 20 个仓库
+2025-05-16 15:39:30,974 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:31,265 - DEBUG - https://api.github.com:443 "GET /repos/Significant-Gravitas/AutoGPT/topics HTTP/1.1" 200 103
+2025-05-16 15:39:31,267 - INFO - 找到新工具: Significant-Gravitas / AutoGPT (⭐ 175331)
+2025-05-16 15:39:32,034 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:32,340 - DEBUG - https://api.github.com:443 "GET /repos/hacksider/Deep-Live-Cam/topics HTTP/1.1" 200 152
+2025-05-16 15:39:32,342 - INFO - 找到新工具: hacksider / Deep-Live-Cam (⭐ 67343)
+2025-05-16 15:39:33,049 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:33,359 - DEBUG - https://api.github.com:443 "GET /repos/All-Hands-AI/OpenHands/topics HTTP/1.1" 200 106
+2025-05-16 15:39:33,361 - INFO - 找到新工具: All-Hands-AI / OpenHands (⭐ 54263)
+2025-05-16 15:39:33,916 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:34,211 - DEBUG - https://api.github.com:443 "GET /repos/rasbt/LLMs-from-scratch/topics HTTP/1.1" 200 116
+2025-05-16 15:39:34,213 - INFO - 找到新工具: rasbt / LLMs-from-scratch (⭐ 49209)
+2025-05-16 15:39:34,746 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:35,085 - DEBUG - https://api.github.com:443 "GET /repos/Kong/kong/topics HTTP/1.1" 200 184
+2025-05-16 15:39:35,090 - INFO - 找到新工具: Kong / kong (⭐ 40827)
+2025-05-16 15:39:36,081 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:36,368 - DEBUG - https://api.github.com:443 "GET /repos/FlowiseAI/Flowise/topics HTTP/1.1" 200 166
+2025-05-16 15:39:36,371 - INFO - 找到新工具: FlowiseAI / Flowise (⭐ 38231)
+2025-05-16 15:39:37,247 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:37,541 - DEBUG - https://api.github.com:443 "GET /repos/microsoft/AI-For-Beginners/topics HTTP/1.1" 200 122
+2025-05-16 15:39:37,545 - INFO - 找到新工具: microsoft / AI-For-Beginners (⭐ 37505)
+2025-05-16 15:39:38,373 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:38,665 - DEBUG - https://api.github.com:443 "GET /repos/XingangPan/DragGAN/topics HTTP/1.1" 200 105
+2025-05-16 15:39:38,667 - INFO - 找到新工具: XingangPan / DragGAN (⭐ 35912)
+2025-05-16 15:39:39,326 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:39,617 - DEBUG - https://api.github.com:443 "GET /repos/explosion/spaCy/topics HTTP/1.1" 200 184
+2025-05-16 15:39:39,619 - INFO - 找到新工具: explosion / spaCy (⭐ 31556)
+2025-05-16 15:39:40,341 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:40,668 - DEBUG - https://api.github.com:443 "GET /repos/facebookresearch/fairseq/topics HTTP/1.1" 200 72
+2025-05-16 15:39:40,672 - INFO - 找到新工具: facebookresearch / fairseq (⭐ 31433)
+2025-05-16 15:39:41,192 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:41,491 - DEBUG - https://api.github.com:443 "GET /repos/AMAI-GmbH/AI-Expert-Roadmap/topics HTTP/1.1" 200 130
+2025-05-16 15:39:41,494 - INFO - 找到新工具: AMAI-GmbH / AI-Expert-Roadmap (⭐ 29854)
+2025-05-16 15:39:42,250 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:42,539 - DEBUG - https://api.github.com:443 "GET /repos/Lightning-AI/pytorch-lightning/topics HTTP/1.1" 200 105
+2025-05-16 15:39:42,541 - INFO - 找到新工具: Lightning-AI / pytorch-lightning (⭐ 29467)
+2025-05-16 15:39:43,391 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:43,672 - DEBUG - https://api.github.com:443 "GET /repos/ZuzooVn/machine-learning-for-software-engineers/topics HTTP/1.1" 200 105
+2025-05-16 15:39:43,674 - INFO - 找到新工具: ZuzooVn / machine-learning-for-software-engineers (⭐ 28474)
+2025-05-16 15:39:44,452 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:44,769 - DEBUG - https://api.github.com:443 "GET /repos/feder-cr/Jobs_Applier_AI_Agent_AIHawk/topics HTTP/1.1" 200 161
+2025-05-16 15:39:44,772 - INFO - 找到新工具: feder-cr / Jobs_Applier_AI_Agent_AIHawk (⭐ 28134)
+2025-05-16 15:39:45,473 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:45,773 - DEBUG - https://api.github.com:443 "GET /repos/invoke-ai/InvokeAI/topics HTTP/1.1" 200 142
+2025-05-16 15:39:45,776 - INFO - 找到新工具: invoke-ai / InvokeAI (⭐ 25107)
+2025-05-16 15:39:46,657 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:46,991 - DEBUG - https://api.github.com:443 "GET /repos/microsoft/semantic-kernel/topics HTTP/1.1" 200 77
+2025-05-16 15:39:46,995 - INFO - 找到新工具: microsoft / semantic-kernel (⭐ 24463)
+2025-05-16 15:39:47,599 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:47,883 - DEBUG - https://api.github.com:443 "GET /repos/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/topics HTTP/1.1" 200 144
+2025-05-16 15:39:47,885 - INFO - 找到新工具: ashishpatel26 / 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code (⭐ 23476)
+2025-05-16 15:39:48,808 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:49,121 - DEBUG - https://api.github.com:443 "GET /repos/lucidrains/vit-pytorch/topics HTTP/1.1" 200 111
+2025-05-16 15:39:49,123 - INFO - 找到新工具: lucidrains / vit-pytorch (⭐ 22845)
+2025-05-16 15:39:50,006 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:50,297 - DEBUG - https://api.github.com:443 "GET /repos/ItzCrazyKns/Perplexica/topics HTTP/1.1" 200 132
+2025-05-16 15:39:50,300 - INFO - 找到新工具: ItzCrazyKns / Perplexica (⭐ 21907)
+2025-05-16 15:39:50,944 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:51,251 - DEBUG - https://api.github.com:443 "GET /repos/Tencent/ncnn/topics HTTP/1.1" 200 170
+2025-05-16 15:39:51,253 - INFO - 找到新工具: Tencent / ncnn (⭐ 21469)
+2025-05-16 15:39:56,607 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:57,193 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Amachine-learning&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:39:57,207 - INFO - 主题 machine-learning 找到 20 个仓库
+2025-05-16 15:39:57,210 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:57,535 - DEBUG - https://api.github.com:443 "GET /repos/tensorflow/tensorflow/topics HTTP/1.1" 200 107
+2025-05-16 15:39:57,536 - INFO - 找到新工具: tensorflow / tensorflow (⭐ 189945)
+2025-05-16 15:39:58,470 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:58,783 - DEBUG - https://api.github.com:443 "GET /repos/huggingface/transformers/topics HTTP/1.1" 200 193
+2025-05-16 15:39:58,784 - INFO - 找到新工具: huggingface / transformers (⭐ 144373)
+2025-05-16 15:39:59,517 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:39:59,829 - DEBUG - https://api.github.com:443 "GET /repos/pytorch/pytorch/topics HTTP/1.1" 200 104
+2025-05-16 15:39:59,831 - INFO - 找到新工具: pytorch / pytorch (⭐ 89952)
+2025-05-16 15:40:00,631 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:00,955 - DEBUG - https://api.github.com:443 "GET /repos/netdata/netdata/topics HTTP/1.1" 200 180
+2025-05-16 15:40:00,958 - INFO - 找到新工具: netdata / netdata (⭐ 74559)
+2025-05-16 15:40:01,535 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:01,853 - DEBUG - https://api.github.com:443 "GET /repos/microsoft/ML-For-Beginners/topics HTTP/1.1" 200 133
+2025-05-16 15:40:01,856 - INFO - 找到新工具: microsoft / ML-For-Beginners (⭐ 72273)
+2025-05-16 15:40:02,471 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:02,785 - DEBUG - https://api.github.com:443 "GET /repos/d2l-ai/d2l-zh/topics HTTP/1.1" 200 116
+2025-05-16 15:40:02,787 - INFO - 找到新工具: d2l-ai / d2l-zh (⭐ 69316)
+2025-05-16 15:40:03,647 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:04,029 - DEBUG - https://api.github.com:443 "GET /repos/Developer-Y/cs-video-courses/topics HTTP/1.1" 200 197
+2025-05-16 15:40:04,031 - INFO - 找到新工具: Developer-Y / cs-video-courses (⭐ 68697)
+2025-05-16 15:40:04,865 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:05,163 - DEBUG - https://api.github.com:443 "GET /repos/tesseract-ocr/tesseract/topics HTTP/1.1" 200 96
+2025-05-16 15:40:05,167 - INFO - 找到新工具: tesseract-ocr / tesseract (⭐ 66846)
+2025-05-16 15:40:05,715 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:06,037 - DEBUG - https://api.github.com:443 "GET /repos/keras-team/keras/topics HTTP/1.1" 200 112
+2025-05-16 15:40:06,041 - INFO - 找到新工具: keras-team / keras (⭐ 62991)
+2025-05-16 15:40:06,635 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:06,936 - DEBUG - https://api.github.com:443 "GET /repos/scikit-learn/scikit-learn/topics HTTP/1.1" 200 89
+2025-05-16 15:40:06,940 - INFO - 找到新工具: scikit-learn / scikit-learn (⭐ 62034)
+2025-05-16 15:40:07,883 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:08,177 - DEBUG - https://api.github.com:443 "GET /repos/binhnguyennus/awesome-scalability/topics HTTP/1.1" 200 203
+2025-05-16 15:40:08,180 - INFO - 找到新工具: binhnguyennus / awesome-scalability (⭐ 61879)
+2025-05-16 15:40:09,037 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:09,331 - DEBUG - https://api.github.com:443 "GET /repos/labmlai/annotated_deep_learning_paper_implementations/topics HTTP/1.1" 200 147
+2025-05-16 15:40:09,335 - INFO - 找到新工具: labmlai / annotated_deep_learning_paper_implementations (⭐ 60618)
+2025-05-16 15:40:10,160 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:10,455 - DEBUG - https://api.github.com:443 "GET /repos/ageitgey/face_recognition/topics HTTP/1.1" 200 82
+2025-05-16 15:40:10,457 - INFO - 找到新工具: ageitgey / face_recognition (⭐ 54730)
+2025-05-16 15:40:11,297 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:11,609 - DEBUG - https://api.github.com:443 "GET /repos/deepfakes/faceswap/topics HTTP/1.1" 200 127
+2025-05-16 15:40:11,612 - INFO - 找到新工具: deepfakes / faceswap (⭐ 53925)
+2025-05-16 15:40:12,451 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:12,757 - DEBUG - https://api.github.com:443 "GET /repos/ultralytics/yolov5/topics HTTP/1.1" 200 127
+2025-05-16 15:40:12,759 - INFO - 找到新工具: ultralytics / yolov5 (⭐ 53835)
+2025-05-16 15:40:13,761 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:14,058 - DEBUG - https://api.github.com:443 "GET /repos/mlabonne/llm-course/topics HTTP/1.1" 200 90
+2025-05-16 15:40:14,061 - INFO - 找到新工具: mlabonne / llm-course (⭐ 51486)
+2025-05-16 15:40:14,781 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:15,059 - DEBUG - https://api.github.com:443 "GET /repos/Avik-Jain/100-Days-Of-ML-Code/topics HTTP/1.1" 200 211
+2025-05-16 15:40:15,061 - INFO - 找到新工具: Avik-Jain / 100-Days-Of-ML-Code (⭐ 47199)
+2025-05-16 15:40:15,808 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:16,115 - DEBUG - https://api.github.com:443 "GET /repos/JuliaLang/julia/topics HTTP/1.1" 200 122
+2025-05-16 15:40:16,117 - INFO - 找到新工具: JuliaLang / julia (⭐ 47028)
+2025-05-16 15:40:17,113 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:17,388 - DEBUG - https://api.github.com:443 "GET /repos/aymericdamien/TensorFlow-Examples/topics HTTP/1.1" 200 95
+2025-05-16 15:40:17,392 - INFO - 找到新工具: aymericdamien / TensorFlow-Examples (⭐ 43617)
+2025-05-16 15:40:18,240 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:18,295 - DEBUG - https://api.github.com:443 "GET /repos/OpenBB-finance/OpenBB/topics HTTP/1.1" 403 280
+2025-05-16 15:40:18,297 - INFO - 找到新工具: OpenBB-finance / OpenBB (⭐ 41381)
+2025-05-16 15:40:23,947 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:24,644 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Adeep-learning&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:40:24,655 - INFO - 主题 deep-learning 找到 20 个仓库
+2025-05-16 15:40:24,657 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:24,704 - DEBUG - https://api.github.com:443 "GET /repos/tensorflow/tensorflow/topics HTTP/1.1" 403 280
+2025-05-16 15:40:24,706 - INFO - 找到新工具: tensorflow / tensorflow (⭐ 189945)
+2025-05-16 15:40:25,376 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:25,438 - DEBUG - https://api.github.com:443 "GET /repos/AUTOMATIC1111/stable-diffusion-webui/topics HTTP/1.1" 403 280
+2025-05-16 15:40:25,440 - INFO - 找到新工具: AUTOMATIC1111 / stable-diffusion-webui (⭐ 152463)
+2025-05-16 15:40:26,407 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:26,459 - DEBUG - https://api.github.com:443 "GET /repos/huggingface/transformers/topics HTTP/1.1" 403 280
+2025-05-16 15:40:26,461 - INFO - 找到新工具: huggingface / transformers (⭐ 144373)
+2025-05-16 15:40:27,008 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:27,061 - DEBUG - https://api.github.com:443 "GET /repos/pytorch/pytorch/topics HTTP/1.1" 403 280
+2025-05-16 15:40:27,063 - INFO - 找到新工具: pytorch / pytorch (⭐ 89952)
+2025-05-16 15:40:27,585 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:27,639 - DEBUG - https://api.github.com:443 "GET /repos/opencv/opencv/topics HTTP/1.1" 403 280
+2025-05-16 15:40:27,641 - INFO - 找到新工具: opencv / opencv (⭐ 82176)
+2025-05-16 15:40:28,416 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:28,469 - DEBUG - https://api.github.com:443 "GET /repos/d2l-ai/d2l-zh/topics HTTP/1.1" 403 280
+2025-05-16 15:40:28,473 - INFO - 找到新工具: d2l-ai / d2l-zh (⭐ 69316)
+2025-05-16 15:40:29,099 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:29,152 - DEBUG - https://api.github.com:443 "GET /repos/Developer-Y/cs-video-courses/topics HTTP/1.1" 403 280
+2025-05-16 15:40:29,155 - INFO - 找到新工具: Developer-Y / cs-video-courses (⭐ 68697)
+2025-05-16 15:40:29,784 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:29,831 - DEBUG - https://api.github.com:443 "GET /repos/keras-team/keras/topics HTTP/1.1" 403 280
+2025-05-16 15:40:29,832 - INFO - 找到新工具: keras-team / keras (⭐ 62991)
+2025-05-16 15:40:30,563 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:30,611 - DEBUG - https://api.github.com:443 "GET /repos/labmlai/annotated_deep_learning_paper_implementations/topics HTTP/1.1" 403 280
+2025-05-16 15:40:30,613 - INFO - 找到新工具: labmlai / annotated_deep_learning_paper_implementations (⭐ 60618)
+2025-05-16 15:40:31,193 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:31,247 - DEBUG - https://api.github.com:443 "GET /repos/dair-ai/Prompt-Engineering-Guide/topics HTTP/1.1" 403 280
+2025-05-16 15:40:31,249 - INFO - 找到新工具: dair-ai / Prompt-Engineering-Guide (⭐ 55984)
+2025-05-16 15:40:32,209 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:32,270 - DEBUG - https://api.github.com:443 "GET /repos/CorentinJ/Real-Time-Voice-Cloning/topics HTTP/1.1" 403 280
+2025-05-16 15:40:32,273 - INFO - 找到新工具: CorentinJ / Real-Time-Voice-Cloning (⭐ 54216)
+2025-05-16 15:40:33,265 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:33,313 - DEBUG - https://api.github.com:443 "GET /repos/deepfakes/faceswap/topics HTTP/1.1" 403 280
+2025-05-16 15:40:33,315 - INFO - 找到新工具: deepfakes / faceswap (⭐ 53925)
+2025-05-16 15:40:33,985 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:34,044 - DEBUG - https://api.github.com:443 "GET /repos/ultralytics/yolov5/topics HTTP/1.1" 403 280
+2025-05-16 15:40:34,046 - INFO - 找到新工具: ultralytics / yolov5 (⭐ 53835)
+2025-05-16 15:40:34,581 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:34,636 - DEBUG - https://api.github.com:443 "GET /repos/infiniflow/ragflow/topics HTTP/1.1" 403 280
+2025-05-16 15:40:34,638 - INFO - 找到新工具: infiniflow / ragflow (⭐ 52534)
+2025-05-16 15:40:35,200 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:35,253 - DEBUG - https://api.github.com:443 "GET /repos/Avik-Jain/100-Days-Of-ML-Code/topics HTTP/1.1" 403 280
+2025-05-16 15:40:35,256 - INFO - 找到新工具: Avik-Jain / 100-Days-Of-ML-Code (⭐ 47199)
+2025-05-16 15:40:35,907 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:35,961 - DEBUG - https://api.github.com:443 "GET /repos/aymericdamien/TensorFlow-Examples/topics HTTP/1.1" 403 280
+2025-05-16 15:40:35,964 - INFO - 找到新工具: aymericdamien / TensorFlow-Examples (⭐ 43617)
+2025-05-16 15:40:36,655 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:36,711 - DEBUG - https://api.github.com:443 "GET /repos/hpcaitech/ColossalAI/topics HTTP/1.1" 403 280
+2025-05-16 15:40:36,713 - INFO - 找到新工具: hpcaitech / ColossalAI (⭐ 40882)
+2025-05-16 15:40:37,424 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:37,475 - DEBUG - https://api.github.com:443 "GET /repos/ultralytics/ultralytics/topics HTTP/1.1" 403 280
+2025-05-16 15:40:37,477 - INFO - 找到新工具: ultralytics / ultralytics (⭐ 40848)
+2025-05-16 15:40:38,250 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:38,307 - DEBUG - https://api.github.com:443 "GET /repos/coqui-ai/TTS/topics HTTP/1.1" 403 280
+2025-05-16 15:40:38,308 - INFO - 找到新工具: coqui-ai / TTS (⭐ 40028)
+2025-05-16 15:40:38,920 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:40:38,973 - DEBUG - https://api.github.com:443 "GET /repos/streamlit/streamlit/topics HTTP/1.1" 403 280
+2025-05-16 15:40:38,975 - INFO - 找到新工具: streamlit / streamlit (⭐ 39366)
+2025-05-16 15:40:39,692 - INFO - 从 GitHub 收集到 80 个新工具
+2025-05-16 15:40:39,693 - INFO - 从 GitHub 收集到 80 个新工具
+2025-05-16 15:40:39,694 - INFO - 所有数据已保存到: output/ai_tools_20250516_154039.md
+2025-05-16 15:42:02,391 - INFO - 开始收集AI工具信息...
+2025-05-16 15:42:05,841 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:42:06,467 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Aai-tools&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:42:06,476 - INFO - 主题 ai-tools 找到 20 个仓库
+2025-05-16 15:42:06,476 - DEBUG - 仓库已经处理过: https://github.com/browser-use/browser-use
+2025-05-16 15:42:06,476 - DEBUG - 仓库已经处理过: https://github.com/plandex-ai/plandex
+2025-05-16 15:42:06,476 - DEBUG - 仓库已经处理过: https://github.com/nanobrowser/nanobrowser
+2025-05-16 15:42:06,476 - DEBUG - 仓库已经处理过: https://github.com/steel-dev/steel-browser
+2025-05-16 15:42:06,476 - DEBUG - 仓库已经处理过: https://github.com/mahseema/awesome-ai-tools
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/StreetLamb/tribe
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/bytebot-ai/bytebot
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/superiorlu/AITreasureBox
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/browserable/browserable
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/sigoden/llm-functions
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/Mintplex-Labs/openai-assistant-swarm
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/meetpateltech/AI-Infinity
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/deepset-ai/haystack-cookbook
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/suitedaces/computer-agent
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/pingan8787/awesome-ai-tools
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/suncloudsmoon/awesome-open-source-ai
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/openbestof/awesome-ai
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/langchain-ai/langchainjs-mcp-adapters
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/DiscovAI/DiscovAI-search
+2025-05-16 15:42:06,477 - DEBUG - 仓库已经处理过: https://github.com/aidatatools/ollama-benchmark
+2025-05-16 15:42:08,616 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:42:09,411 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Aartificial-intelligence&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:42:09,416 - INFO - 主题 artificial-intelligence 找到 20 个仓库
+2025-05-16 15:42:09,416 - DEBUG - 仓库已经处理过: https://github.com/Significant-Gravitas/AutoGPT
+2025-05-16 15:42:09,416 - DEBUG - 仓库已经处理过: https://github.com/hacksider/Deep-Live-Cam
+2025-05-16 15:42:09,416 - DEBUG - 仓库已经处理过: https://github.com/All-Hands-AI/OpenHands
+2025-05-16 15:42:09,416 - DEBUG - 仓库已经处理过: https://github.com/rasbt/LLMs-from-scratch
+2025-05-16 15:42:09,416 - DEBUG - 仓库已经处理过: https://github.com/Kong/kong
+2025-05-16 15:42:09,416 - DEBUG - 仓库已经处理过: https://github.com/FlowiseAI/Flowise
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/microsoft/AI-For-Beginners
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/XingangPan/DragGAN
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/explosion/spaCy
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/facebookresearch/fairseq
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/Lightning-AI/pytorch-lightning
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/ZuzooVn/machine-learning-for-software-engineers
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/invoke-ai/InvokeAI
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/microsoft/semantic-kernel
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/lucidrains/vit-pytorch
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/ItzCrazyKns/Perplexica
+2025-05-16 15:42:09,417 - DEBUG - 仓库已经处理过: https://github.com/Tencent/ncnn
+2025-05-16 15:42:13,589 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:42:14,429 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Amachine-learning&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:42:14,441 - INFO - 主题 machine-learning 找到 20 个仓库
+2025-05-16 15:42:14,441 - DEBUG - 仓库已经处理过: https://github.com/tensorflow/tensorflow
+2025-05-16 15:42:14,441 - DEBUG - 仓库已经处理过: https://github.com/huggingface/transformers
+2025-05-16 15:42:14,441 - DEBUG - 仓库已经处理过: https://github.com/pytorch/pytorch
+2025-05-16 15:42:14,441 - DEBUG - 仓库已经处理过: https://github.com/netdata/netdata
+2025-05-16 15:42:14,441 - DEBUG - 仓库已经处理过: https://github.com/microsoft/ML-For-Beginners
+2025-05-16 15:42:14,441 - DEBUG - 仓库已经处理过: https://github.com/d2l-ai/d2l-zh
+2025-05-16 15:42:14,441 - DEBUG - 仓库已经处理过: https://github.com/Developer-Y/cs-video-courses
+2025-05-16 15:42:14,441 - DEBUG - 仓库已经处理过: https://github.com/tesseract-ocr/tesseract
+2025-05-16 15:42:14,441 - DEBUG - 仓库已经处理过: https://github.com/keras-team/keras
+2025-05-16 15:42:14,442 - DEBUG - 仓库已经处理过: https://github.com/scikit-learn/scikit-learn
+2025-05-16 15:42:14,442 - DEBUG - 仓库已经处理过: https://github.com/binhnguyennus/awesome-scalability
+2025-05-16 15:42:14,442 - DEBUG - 仓库已经处理过: https://github.com/labmlai/annotated_deep_learning_paper_implementations
+2025-05-16 15:42:14,442 - DEBUG - 仓库已经处理过: https://github.com/ageitgey/face_recognition
+2025-05-16 15:42:14,442 - DEBUG - 仓库已经处理过: https://github.com/deepfakes/faceswap
+2025-05-16 15:42:14,442 - DEBUG - 仓库已经处理过: https://github.com/ultralytics/yolov5
+2025-05-16 15:42:14,442 - DEBUG - 仓库已经处理过: https://github.com/mlabonne/llm-course
+2025-05-16 15:42:14,442 - DEBUG - 仓库已经处理过: https://github.com/Avik-Jain/100-Days-Of-ML-Code
+2025-05-16 15:42:14,442 - DEBUG - 仓库已经处理过: https://github.com/JuliaLang/julia
+2025-05-16 15:42:14,442 - DEBUG - 仓库已经处理过: https://github.com/aymericdamien/TensorFlow-Examples
+2025-05-16 15:42:14,442 - DEBUG - 仓库已经处理过: https://github.com/OpenBB-finance/OpenBB
+2025-05-16 15:42:18,600 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:42:19,211 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Adeep-learning&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:42:19,222 - INFO - 主题 deep-learning 找到 20 个仓库
+2025-05-16 15:42:19,222 - DEBUG - 仓库已经处理过: https://github.com/tensorflow/tensorflow
+2025-05-16 15:42:19,222 - DEBUG - 仓库已经处理过: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+2025-05-16 15:42:19,222 - DEBUG - 仓库已经处理过: https://github.com/huggingface/transformers
+2025-05-16 15:42:19,222 - DEBUG - 仓库已经处理过: https://github.com/pytorch/pytorch
+2025-05-16 15:42:19,222 - DEBUG - 仓库已经处理过: https://github.com/opencv/opencv
+2025-05-16 15:42:19,222 - DEBUG - 仓库已经处理过: https://github.com/d2l-ai/d2l-zh
+2025-05-16 15:42:19,222 - DEBUG - 仓库已经处理过: https://github.com/Developer-Y/cs-video-courses
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/keras-team/keras
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/labmlai/annotated_deep_learning_paper_implementations
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/dair-ai/Prompt-Engineering-Guide
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/CorentinJ/Real-Time-Voice-Cloning
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/deepfakes/faceswap
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/ultralytics/yolov5
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/infiniflow/ragflow
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/Avik-Jain/100-Days-Of-ML-Code
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/aymericdamien/TensorFlow-Examples
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/hpcaitech/ColossalAI
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/ultralytics/ultralytics
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/coqui-ai/TTS
+2025-05-16 15:42:19,223 - DEBUG - 仓库已经处理过: https://github.com/streamlit/streamlit
+2025-05-16 15:42:19,225 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:42:19,226 - INFO - 从 GitHub 收集到 0 个新工具
+2025-05-16 15:42:19,226 - WARNING - 未收集到任何工具信息
+2025-05-16 15:45:42,858 - INFO - 开始收集AI工具信息...
+2025-05-16 15:45:46,343 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:47,118 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Aai-tools&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:45:47,129 - INFO - 主题 ai-tools 找到 20 个仓库
+2025-05-16 15:45:47,133 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:47,186 - DEBUG - https://api.github.com:443 "GET /repos/browser-use/browser-use/topics HTTP/1.1" 403 280
+2025-05-16 15:45:47,187 - INFO - 找到新工具: browser-use / browser-use (⭐ 60302)
+2025-05-16 15:45:48,061 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:48,145 - DEBUG - https://api.github.com:443 "GET /repos/plandex-ai/plandex/topics HTTP/1.1" 403 280
+2025-05-16 15:45:48,148 - INFO - 找到新工具: plandex-ai / plandex (⭐ 13375)
+2025-05-16 15:45:48,663 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:48,714 - DEBUG - https://api.github.com:443 "GET /repos/nanobrowser/nanobrowser/topics HTTP/1.1" 403 280
+2025-05-16 15:45:48,715 - INFO - 找到新工具: nanobrowser / nanobrowser (⭐ 5551)
+2025-05-16 15:45:49,634 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:49,719 - DEBUG - https://api.github.com:443 "GET /repos/steel-dev/steel-browser/topics HTTP/1.1" 403 280
+2025-05-16 15:45:49,721 - INFO - 找到新工具: steel-dev / steel-browser (⭐ 4332)
+2025-05-16 15:45:50,302 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:50,373 - DEBUG - https://api.github.com:443 "GET /repos/mahseema/awesome-ai-tools/topics HTTP/1.1" 403 280
+2025-05-16 15:45:50,375 - INFO - 找到新工具: mahseema / awesome-ai-tools (⭐ 2423)
+2025-05-16 15:45:51,165 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:51,311 - DEBUG - https://api.github.com:443 "GET /repos/StreetLamb/tribe/topics HTTP/1.1" 403 280
+2025-05-16 15:45:51,313 - INFO - 找到新工具: StreetLamb / tribe (⭐ 992)
+2025-05-16 15:45:52,264 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:52,338 - DEBUG - https://api.github.com:443 "GET /repos/bytebot-ai/bytebot/topics HTTP/1.1" 403 280
+2025-05-16 15:45:52,340 - INFO - 找到新工具: bytebot-ai / bytebot (⭐ 625)
+2025-05-16 15:45:53,024 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:53,077 - DEBUG - https://api.github.com:443 "GET /repos/superiorlu/AITreasureBox/topics HTTP/1.1" 403 280
+2025-05-16 15:45:53,079 - INFO - 找到新工具: superiorlu / AITreasureBox (⭐ 587)
+2025-05-16 15:45:54,069 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:54,122 - DEBUG - https://api.github.com:443 "GET /repos/browserable/browserable/topics HTTP/1.1" 403 280
+2025-05-16 15:45:54,124 - INFO - 找到新工具: browserable / browserable (⭐ 562)
+2025-05-16 15:45:55,039 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:55,099 - DEBUG - https://api.github.com:443 "GET /repos/sigoden/llm-functions/topics HTTP/1.1" 403 280
+2025-05-16 15:45:55,101 - INFO - 找到新工具: sigoden / llm-functions (⭐ 527)
+2025-05-16 15:45:55,817 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:55,962 - DEBUG - https://api.github.com:443 "GET /repos/Mintplex-Labs/openai-assistant-swarm/topics HTTP/1.1" 403 280
+2025-05-16 15:45:55,966 - INFO - 找到新工具: Mintplex-Labs / openai-assistant-swarm (⭐ 524)
+2025-05-16 15:45:56,955 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:57,057 - DEBUG - https://api.github.com:443 "GET /repos/meetpateltech/AI-Infinity/topics HTTP/1.1" 403 280
+2025-05-16 15:45:57,059 - INFO - 找到新工具: meetpateltech / AI-Infinity (⭐ 500)
+2025-05-16 15:45:57,771 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:57,829 - DEBUG - https://api.github.com:443 "GET /repos/deepset-ai/haystack-cookbook/topics HTTP/1.1" 403 280
+2025-05-16 15:45:57,831 - INFO - 找到新工具: deepset-ai / haystack-cookbook (⭐ 468)
+2025-05-16 15:45:58,799 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:58,854 - DEBUG - https://api.github.com:443 "GET /repos/suitedaces/computer-agent/topics HTTP/1.1" 403 280
+2025-05-16 15:45:58,855 - INFO - 找到新工具: suitedaces / computer-agent (⭐ 449)
+2025-05-16 15:45:59,831 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:45:59,890 - DEBUG - https://api.github.com:443 "GET /repos/pingan8787/awesome-ai-tools/topics HTTP/1.1" 403 280
+2025-05-16 15:45:59,891 - INFO - 找到新工具: pingan8787 / awesome-ai-tools (⭐ 309)
+2025-05-16 15:46:00,743 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:00,798 - DEBUG - https://api.github.com:443 "GET /repos/suncloudsmoon/awesome-open-source-ai/topics HTTP/1.1" 403 280
+2025-05-16 15:46:00,800 - INFO - 找到新工具: suncloudsmoon / awesome-open-source-ai (⭐ 293)
+2025-05-16 15:46:01,340 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:01,393 - DEBUG - https://api.github.com:443 "GET /repos/openbestof/awesome-ai/topics HTTP/1.1" 403 280
+2025-05-16 15:46:01,395 - INFO - 找到新工具: openbestof / awesome-ai (⭐ 290)
+2025-05-16 15:46:01,935 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:01,987 - DEBUG - https://api.github.com:443 "GET /repos/langchain-ai/langchainjs-mcp-adapters/topics HTTP/1.1" 403 280
+2025-05-16 15:46:01,988 - INFO - 找到新工具: langchain-ai / langchainjs-mcp-adapters (⭐ 227)
+2025-05-16 15:46:02,577 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:02,632 - DEBUG - https://api.github.com:443 "GET /repos/DiscovAI/DiscovAI-search/topics HTTP/1.1" 403 280
+2025-05-16 15:46:02,634 - INFO - 找到新工具: DiscovAI / DiscovAI-search (⭐ 226)
+2025-05-16 15:46:03,350 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:03,408 - DEBUG - https://api.github.com:443 "GET /repos/aidatatools/ollama-benchmark/topics HTTP/1.1" 403 280
+2025-05-16 15:46:03,410 - INFO - 找到新工具: aidatatools / ollama-benchmark (⭐ 221)
+2025-05-16 15:46:08,065 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:08,840 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Aartificial-intelligence&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:46:09,073 - INFO - 主题 artificial-intelligence 找到 20 个仓库
+2025-05-16 15:46:09,076 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:09,154 - DEBUG - https://api.github.com:443 "GET /repos/Significant-Gravitas/AutoGPT/topics HTTP/1.1" 403 280
+2025-05-16 15:46:09,158 - INFO - 找到新工具: Significant-Gravitas / AutoGPT (⭐ 175332)
+2025-05-16 15:46:09,884 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:10,173 - DEBUG - https://api.github.com:443 "GET /repos/hacksider/Deep-Live-Cam/topics HTTP/1.1" 403 280
+2025-05-16 15:46:10,175 - INFO - 找到新工具: hacksider / Deep-Live-Cam (⭐ 67344)
+2025-05-16 15:46:10,725 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:10,797 - DEBUG - https://api.github.com:443 "GET /repos/All-Hands-AI/OpenHands/topics HTTP/1.1" 403 280
+2025-05-16 15:46:10,800 - INFO - 找到新工具: All-Hands-AI / OpenHands (⭐ 54263)
+2025-05-16 15:46:11,397 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:11,449 - DEBUG - https://api.github.com:443 "GET /repos/rasbt/LLMs-from-scratch/topics HTTP/1.1" 403 280
+2025-05-16 15:46:11,451 - INFO - 找到新工具: rasbt / LLMs-from-scratch (⭐ 49209)
+2025-05-16 15:46:11,967 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:12,243 - DEBUG - https://api.github.com:443 "GET /repos/Kong/kong/topics HTTP/1.1" 403 280
+2025-05-16 15:46:12,247 - INFO - 找到新工具: Kong / kong (⭐ 40827)
+2025-05-16 15:46:12,850 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:12,904 - DEBUG - https://api.github.com:443 "GET /repos/FlowiseAI/Flowise/topics HTTP/1.1" 403 280
+2025-05-16 15:46:12,905 - INFO - 找到新工具: FlowiseAI / Flowise (⭐ 38231)
+2025-05-16 15:46:13,779 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:13,833 - DEBUG - https://api.github.com:443 "GET /repos/microsoft/AI-For-Beginners/topics HTTP/1.1" 403 280
+2025-05-16 15:46:13,835 - INFO - 找到新工具: microsoft / AI-For-Beginners (⭐ 37505)
+2025-05-16 15:46:14,489 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:14,545 - DEBUG - https://api.github.com:443 "GET /repos/XingangPan/DragGAN/topics HTTP/1.1" 403 280
+2025-05-16 15:46:14,547 - INFO - 找到新工具: XingangPan / DragGAN (⭐ 35912)
+2025-05-16 15:46:15,163 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:15,249 - DEBUG - https://api.github.com:443 "GET /repos/explosion/spaCy/topics HTTP/1.1" 403 280
+2025-05-16 15:46:15,250 - INFO - 找到新工具: explosion / spaCy (⭐ 31556)
+2025-05-16 15:46:16,143 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:16,198 - DEBUG - https://api.github.com:443 "GET /repos/facebookresearch/fairseq/topics HTTP/1.1" 403 280
+2025-05-16 15:46:16,200 - INFO - 找到新工具: facebookresearch / fairseq (⭐ 31433)
+2025-05-16 15:46:16,987 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:17,054 - DEBUG - https://api.github.com:443 "GET /repos/AMAI-GmbH/AI-Expert-Roadmap/topics HTTP/1.1" 403 280
+2025-05-16 15:46:17,056 - INFO - 找到新工具: AMAI-GmbH / AI-Expert-Roadmap (⭐ 29854)
+2025-05-16 15:46:17,665 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:17,721 - DEBUG - https://api.github.com:443 "GET /repos/Lightning-AI/pytorch-lightning/topics HTTP/1.1" 403 280
+2025-05-16 15:46:17,723 - INFO - 找到新工具: Lightning-AI / pytorch-lightning (⭐ 29467)
+2025-05-16 15:46:18,556 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:18,605 - DEBUG - https://api.github.com:443 "GET /repos/ZuzooVn/machine-learning-for-software-engineers/topics HTTP/1.1" 403 280
+2025-05-16 15:46:18,606 - INFO - 找到新工具: ZuzooVn / machine-learning-for-software-engineers (⭐ 28474)
+2025-05-16 15:46:19,148 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:19,218 - DEBUG - https://api.github.com:443 "GET /repos/feder-cr/Jobs_Applier_AI_Agent_AIHawk/topics HTTP/1.1" 403 280
+2025-05-16 15:46:19,220 - INFO - 找到新工具: feder-cr / Jobs_Applier_AI_Agent_AIHawk (⭐ 28134)
+2025-05-16 15:46:20,057 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:20,128 - DEBUG - https://api.github.com:443 "GET /repos/invoke-ai/InvokeAI/topics HTTP/1.1" 403 280
+2025-05-16 15:46:20,130 - INFO - 找到新工具: invoke-ai / InvokeAI (⭐ 25107)
+2025-05-16 15:46:20,956 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:21,036 - DEBUG - https://api.github.com:443 "GET /repos/microsoft/semantic-kernel/topics HTTP/1.1" 403 280
+2025-05-16 15:46:21,038 - INFO - 找到新工具: microsoft / semantic-kernel (⭐ 24463)
+2025-05-16 15:46:21,797 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:21,874 - DEBUG - https://api.github.com:443 "GET /repos/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/topics HTTP/1.1" 403 280
+2025-05-16 15:46:21,876 - INFO - 找到新工具: ashishpatel26 / 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code (⭐ 23476)
+2025-05-16 15:46:22,633 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:22,743 - DEBUG - https://api.github.com:443 "GET /repos/lucidrains/vit-pytorch/topics HTTP/1.1" 403 280
+2025-05-16 15:46:22,745 - INFO - 找到新工具: lucidrains / vit-pytorch (⭐ 22845)
+2025-05-16 15:46:23,304 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:23,354 - DEBUG - https://api.github.com:443 "GET /repos/ItzCrazyKns/Perplexica/topics HTTP/1.1" 403 280
+2025-05-16 15:46:23,356 - INFO - 找到新工具: ItzCrazyKns / Perplexica (⭐ 21908)
+2025-05-16 15:46:24,159 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:24,300 - DEBUG - https://api.github.com:443 "GET /repos/Tencent/ncnn/topics HTTP/1.1" 403 280
+2025-05-16 15:46:24,304 - INFO - 找到新工具: Tencent / ncnn (⭐ 21469)
+2025-05-16 15:46:28,348 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:29,100 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Amachine-learning&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:46:29,113 - INFO - 主题 machine-learning 找到 20 个仓库
+2025-05-16 15:46:29,116 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:29,207 - DEBUG - https://api.github.com:443 "GET /repos/tensorflow/tensorflow/topics HTTP/1.1" 403 280
+2025-05-16 15:46:29,210 - INFO - 找到新工具: tensorflow / tensorflow (⭐ 189945)
+2025-05-16 15:46:29,964 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:30,081 - DEBUG - https://api.github.com:443 "GET /repos/huggingface/transformers/topics HTTP/1.1" 403 280
+2025-05-16 15:46:30,083 - INFO - 找到新工具: huggingface / transformers (⭐ 144373)
+2025-05-16 15:46:31,062 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:31,139 - DEBUG - https://api.github.com:443 "GET /repos/pytorch/pytorch/topics HTTP/1.1" 403 280
+2025-05-16 15:46:31,141 - INFO - 找到新工具: pytorch / pytorch (⭐ 89952)
+2025-05-16 15:46:31,985 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:32,036 - DEBUG - https://api.github.com:443 "GET /repos/netdata/netdata/topics HTTP/1.1" 403 280
+2025-05-16 15:46:32,038 - INFO - 找到新工具: netdata / netdata (⭐ 74559)
+2025-05-16 15:46:32,947 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:32,998 - DEBUG - https://api.github.com:443 "GET /repos/microsoft/ML-For-Beginners/topics HTTP/1.1" 403 280
+2025-05-16 15:46:33,000 - INFO - 找到新工具: microsoft / ML-For-Beginners (⭐ 72273)
+2025-05-16 15:46:33,538 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:33,591 - DEBUG - https://api.github.com:443 "GET /repos/d2l-ai/d2l-zh/topics HTTP/1.1" 403 280
+2025-05-16 15:46:33,592 - INFO - 找到新工具: d2l-ai / d2l-zh (⭐ 69316)
+2025-05-16 15:46:34,230 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:34,283 - DEBUG - https://api.github.com:443 "GET /repos/Developer-Y/cs-video-courses/topics HTTP/1.1" 403 280
+2025-05-16 15:46:34,285 - INFO - 找到新工具: Developer-Y / cs-video-courses (⭐ 68697)
+2025-05-16 15:46:35,182 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:35,324 - DEBUG - https://api.github.com:443 "GET /repos/tesseract-ocr/tesseract/topics HTTP/1.1" 403 280
+2025-05-16 15:46:35,327 - INFO - 找到新工具: tesseract-ocr / tesseract (⭐ 66847)
+2025-05-16 15:46:35,903 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:35,959 - DEBUG - https://api.github.com:443 "GET /repos/keras-team/keras/topics HTTP/1.1" 403 280
+2025-05-16 15:46:35,961 - INFO - 找到新工具: keras-team / keras (⭐ 62990)
+2025-05-16 15:46:36,725 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:36,856 - DEBUG - https://api.github.com:443 "GET /repos/scikit-learn/scikit-learn/topics HTTP/1.1" 403 280
+2025-05-16 15:46:36,859 - INFO - 找到新工具: scikit-learn / scikit-learn (⭐ 62034)
+2025-05-16 15:46:37,372 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:37,428 - DEBUG - https://api.github.com:443 "GET /repos/binhnguyennus/awesome-scalability/topics HTTP/1.1" 403 280
+2025-05-16 15:46:37,430 - INFO - 找到新工具: binhnguyennus / awesome-scalability (⭐ 61879)
+2025-05-16 15:46:38,120 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:38,175 - DEBUG - https://api.github.com:443 "GET /repos/labmlai/annotated_deep_learning_paper_implementations/topics HTTP/1.1" 403 280
+2025-05-16 15:46:38,177 - INFO - 找到新工具: labmlai / annotated_deep_learning_paper_implementations (⭐ 60618)
+2025-05-16 15:46:38,843 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:38,979 - DEBUG - https://api.github.com:443 "GET /repos/ageitgey/face_recognition/topics HTTP/1.1" 403 280
+2025-05-16 15:46:38,982 - INFO - 找到新工具: ageitgey / face_recognition (⭐ 54730)
+2025-05-16 15:46:39,767 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:39,822 - DEBUG - https://api.github.com:443 "GET /repos/deepfakes/faceswap/topics HTTP/1.1" 403 280
+2025-05-16 15:46:39,824 - INFO - 找到新工具: deepfakes / faceswap (⭐ 53926)
+2025-05-16 15:46:40,724 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:40,782 - DEBUG - https://api.github.com:443 "GET /repos/ultralytics/yolov5/topics HTTP/1.1" 403 280
+2025-05-16 15:46:40,784 - INFO - 找到新工具: ultralytics / yolov5 (⭐ 53835)
+2025-05-16 15:46:41,318 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:41,377 - DEBUG - https://api.github.com:443 "GET /repos/mlabonne/llm-course/topics HTTP/1.1" 403 280
+2025-05-16 15:46:41,378 - INFO - 找到新工具: mlabonne / llm-course (⭐ 51486)
+2025-05-16 15:46:41,974 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:42,111 - DEBUG - https://api.github.com:443 "GET /repos/Avik-Jain/100-Days-Of-ML-Code/topics HTTP/1.1" 403 280
+2025-05-16 15:46:42,115 - INFO - 找到新工具: Avik-Jain / 100-Days-Of-ML-Code (⭐ 47199)
+2025-05-16 15:46:42,841 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:42,898 - DEBUG - https://api.github.com:443 "GET /repos/JuliaLang/julia/topics HTTP/1.1" 403 280
+2025-05-16 15:46:42,900 - INFO - 找到新工具: JuliaLang / julia (⭐ 47028)
+2025-05-16 15:46:43,807 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:43,867 - DEBUG - https://api.github.com:443 "GET /repos/aymericdamien/TensorFlow-Examples/topics HTTP/1.1" 403 280
+2025-05-16 15:46:43,869 - INFO - 找到新工具: aymericdamien / TensorFlow-Examples (⭐ 43617)
+2025-05-16 15:46:44,658 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:44,763 - DEBUG - https://api.github.com:443 "GET /repos/OpenBB-finance/OpenBB/topics HTTP/1.1" 403 280
+2025-05-16 15:46:44,765 - INFO - 找到新工具: OpenBB-finance / OpenBB (⭐ 41381)
+2025-05-16 15:46:49,467 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:50,194 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Adeep-learning&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:46:50,210 - INFO - 主题 deep-learning 找到 20 个仓库
+2025-05-16 15:46:50,214 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:50,267 - DEBUG - https://api.github.com:443 "GET /repos/tensorflow/tensorflow/topics HTTP/1.1" 403 280
+2025-05-16 15:46:50,270 - INFO - 找到新工具: tensorflow / tensorflow (⭐ 189945)
+2025-05-16 15:46:51,234 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:51,295 - DEBUG - https://api.github.com:443 "GET /repos/AUTOMATIC1111/stable-diffusion-webui/topics HTTP/1.1" 403 280
+2025-05-16 15:46:51,297 - INFO - 找到新工具: AUTOMATIC1111 / stable-diffusion-webui (⭐ 152463)
+2025-05-16 15:46:51,899 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:51,954 - DEBUG - https://api.github.com:443 "GET /repos/huggingface/transformers/topics HTTP/1.1" 403 280
+2025-05-16 15:46:51,956 - INFO - 找到新工具: huggingface / transformers (⭐ 144373)
+2025-05-16 15:46:52,746 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:52,798 - DEBUG - https://api.github.com:443 "GET /repos/pytorch/pytorch/topics HTTP/1.1" 403 280
+2025-05-16 15:46:52,801 - INFO - 找到新工具: pytorch / pytorch (⭐ 89952)
+2025-05-16 15:46:53,411 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:53,464 - DEBUG - https://api.github.com:443 "GET /repos/opencv/opencv/topics HTTP/1.1" 403 280
+2025-05-16 15:46:53,465 - INFO - 找到新工具: opencv / opencv (⭐ 82176)
+2025-05-16 15:46:54,069 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:54,209 - DEBUG - https://api.github.com:443 "GET /repos/d2l-ai/d2l-zh/topics HTTP/1.1" 403 280
+2025-05-16 15:46:54,212 - INFO - 找到新工具: d2l-ai / d2l-zh (⭐ 69316)
+2025-05-16 15:46:55,095 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:55,240 - DEBUG - https://api.github.com:443 "GET /repos/Developer-Y/cs-video-courses/topics HTTP/1.1" 403 280
+2025-05-16 15:46:55,243 - INFO - 找到新工具: Developer-Y / cs-video-courses (⭐ 68697)
+2025-05-16 15:46:55,805 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:55,859 - DEBUG - https://api.github.com:443 "GET /repos/keras-team/keras/topics HTTP/1.1" 403 280
+2025-05-16 15:46:55,861 - INFO - 找到新工具: keras-team / keras (⭐ 62990)
+2025-05-16 15:46:56,529 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:56,583 - DEBUG - https://api.github.com:443 "GET /repos/labmlai/annotated_deep_learning_paper_implementations/topics HTTP/1.1" 403 280
+2025-05-16 15:46:56,585 - INFO - 找到新工具: labmlai / annotated_deep_learning_paper_implementations (⭐ 60618)
+2025-05-16 15:46:57,549 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:57,615 - DEBUG - https://api.github.com:443 "GET /repos/dair-ai/Prompt-Engineering-Guide/topics HTTP/1.1" 403 280
+2025-05-16 15:46:57,617 - INFO - 找到新工具: dair-ai / Prompt-Engineering-Guide (⭐ 55984)
+2025-05-16 15:46:58,185 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:58,238 - DEBUG - https://api.github.com:443 "GET /repos/CorentinJ/Real-Time-Voice-Cloning/topics HTTP/1.1" 403 280
+2025-05-16 15:46:58,239 - INFO - 找到新工具: CorentinJ / Real-Time-Voice-Cloning (⭐ 54216)
+2025-05-16 15:46:59,221 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:46:59,278 - DEBUG - https://api.github.com:443 "GET /repos/deepfakes/faceswap/topics HTTP/1.1" 403 280
+2025-05-16 15:46:59,280 - INFO - 找到新工具: deepfakes / faceswap (⭐ 53926)
+2025-05-16 15:47:00,056 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:47:00,111 - DEBUG - https://api.github.com:443 "GET /repos/ultralytics/yolov5/topics HTTP/1.1" 403 280
+2025-05-16 15:47:00,114 - INFO - 找到新工具: ultralytics / yolov5 (⭐ 53835)
+2025-05-16 15:47:00,905 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:47:01,020 - DEBUG - https://api.github.com:443 "GET /repos/infiniflow/ragflow/topics HTTP/1.1" 403 280
+2025-05-16 15:47:01,022 - INFO - 找到新工具: infiniflow / ragflow (⭐ 52535)
+2025-05-16 15:47:01,700 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:47:01,755 - DEBUG - https://api.github.com:443 "GET /repos/Avik-Jain/100-Days-Of-ML-Code/topics HTTP/1.1" 403 280
+2025-05-16 15:47:01,756 - INFO - 找到新工具: Avik-Jain / 100-Days-Of-ML-Code (⭐ 47199)
+2025-05-16 15:47:02,424 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:47:02,568 - DEBUG - https://api.github.com:443 "GET /repos/aymericdamien/TensorFlow-Examples/topics HTTP/1.1" 403 280
+2025-05-16 15:47:02,571 - INFO - 找到新工具: aymericdamien / TensorFlow-Examples (⭐ 43617)
+2025-05-16 15:47:03,375 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:47:03,430 - DEBUG - https://api.github.com:443 "GET /repos/hpcaitech/ColossalAI/topics HTTP/1.1" 403 280
+2025-05-16 15:47:03,433 - INFO - 找到新工具: hpcaitech / ColossalAI (⭐ 40882)
+2025-05-16 15:47:04,403 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:47:04,458 - DEBUG - https://api.github.com:443 "GET /repos/ultralytics/ultralytics/topics HTTP/1.1" 403 280
+2025-05-16 15:47:04,460 - INFO - 找到新工具: ultralytics / ultralytics (⭐ 40848)
+2025-05-16 15:47:05,240 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:47:05,294 - DEBUG - https://api.github.com:443 "GET /repos/coqui-ai/TTS/topics HTTP/1.1" 403 280
+2025-05-16 15:47:05,296 - INFO - 找到新工具: coqui-ai / TTS (⭐ 40028)
+2025-05-16 15:47:05,942 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:47:06,014 - DEBUG - https://api.github.com:443 "GET /repos/streamlit/streamlit/topics HTTP/1.1" 403 280
+2025-05-16 15:47:06,016 - INFO - 找到新工具: streamlit / streamlit (⭐ 39366)
+2025-05-16 15:47:06,845 - INFO - 从 GitHub 收集到 80 个新工具
+2025-05-16 15:47:06,846 - INFO - 从 GitHub 收集到 80 个新工具
+2025-05-16 15:47:06,846 - INFO - 所有数据已保存到: output/ai_tools_20250516_154706.md
+2025-05-16 15:47:55,399 - INFO - 开始收集AI工具信息...
+2025-05-16 15:48:00,193 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:48:00,852 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Aai-tools&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:48:00,857 - INFO - 主题 ai-tools 找到 20 个仓库
+2025-05-16 15:48:00,857 - DEBUG - 仓库已经处理过: https://github.com/browser-use/browser-use
+2025-05-16 15:48:00,857 - DEBUG - 仓库已经处理过: https://github.com/plandex-ai/plandex
+2025-05-16 15:48:00,857 - DEBUG - 仓库已经处理过: https://github.com/nanobrowser/nanobrowser
+2025-05-16 15:48:00,857 - DEBUG - 仓库已经处理过: https://github.com/steel-dev/steel-browser
+2025-05-16 15:48:00,857 - DEBUG - 仓库已经处理过: https://github.com/mahseema/awesome-ai-tools
+2025-05-16 15:48:00,857 - DEBUG - 仓库已经处理过: https://github.com/StreetLamb/tribe
+2025-05-16 15:48:00,857 - DEBUG - 仓库已经处理过: https://github.com/bytebot-ai/bytebot
+2025-05-16 15:48:00,857 - DEBUG - 仓库已经处理过: https://github.com/superiorlu/AITreasureBox
+2025-05-16 15:48:00,857 - DEBUG - 仓库已经处理过: https://github.com/browserable/browserable
+2025-05-16 15:48:00,857 - DEBUG - 仓库已经处理过: https://github.com/sigoden/llm-functions
+2025-05-16 15:48:00,858 - DEBUG - 仓库已经处理过: https://github.com/Mintplex-Labs/openai-assistant-swarm
+2025-05-16 15:48:00,858 - DEBUG - 仓库已经处理过: https://github.com/meetpateltech/AI-Infinity
+2025-05-16 15:48:00,858 - DEBUG - 仓库已经处理过: https://github.com/deepset-ai/haystack-cookbook
+2025-05-16 15:48:00,858 - DEBUG - 仓库已经处理过: https://github.com/suitedaces/computer-agent
+2025-05-16 15:48:00,858 - DEBUG - 仓库已经处理过: https://github.com/pingan8787/awesome-ai-tools
+2025-05-16 15:48:00,858 - DEBUG - 仓库已经处理过: https://github.com/suncloudsmoon/awesome-open-source-ai
+2025-05-16 15:48:00,858 - DEBUG - 仓库已经处理过: https://github.com/openbestof/awesome-ai
+2025-05-16 15:48:00,858 - DEBUG - 仓库已经处理过: https://github.com/langchain-ai/langchainjs-mcp-adapters
+2025-05-16 15:48:00,858 - DEBUG - 仓库已经处理过: https://github.com/DiscovAI/DiscovAI-search
+2025-05-16 15:48:00,858 - DEBUG - 仓库已经处理过: https://github.com/aidatatools/ollama-benchmark
+2025-05-16 15:48:04,420 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:48:05,152 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Aartificial-intelligence&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:48:05,165 - INFO - 主题 artificial-intelligence 找到 20 个仓库
+2025-05-16 15:48:05,165 - DEBUG - 仓库已经处理过: https://github.com/Significant-Gravitas/AutoGPT
+2025-05-16 15:48:05,165 - DEBUG - 仓库已经处理过: https://github.com/hacksider/Deep-Live-Cam
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/All-Hands-AI/OpenHands
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/rasbt/LLMs-from-scratch
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/Kong/kong
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/FlowiseAI/Flowise
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/microsoft/AI-For-Beginners
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/XingangPan/DragGAN
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/explosion/spaCy
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/facebookresearch/fairseq
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/Lightning-AI/pytorch-lightning
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/ZuzooVn/machine-learning-for-software-engineers
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/invoke-ai/InvokeAI
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/microsoft/semantic-kernel
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/lucidrains/vit-pytorch
+2025-05-16 15:48:05,166 - DEBUG - 仓库已经处理过: https://github.com/ItzCrazyKns/Perplexica
+2025-05-16 15:48:05,167 - DEBUG - 仓库已经处理过: https://github.com/Tencent/ncnn
+2025-05-16 15:48:07,995 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:48:29,795 - INFO - 开始收集AI工具信息...
+2025-05-16 15:48:33,422 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:48:34,336 - DEBUG - https://api.github.com:443 "GET /search/repositories?q=topic%3Aai-tools&sort=stars&order=desc&per_page=20 HTTP/1.1" 200 None
+2025-05-16 15:48:34,346 - INFO - 主题 ai-tools 找到 20 个仓库
+2025-05-16 15:48:34,350 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:48:34,399 - DEBUG - https://api.github.com:443 "GET /repos/browser-use/browser-use/topics HTTP/1.1" 403 280
+2025-05-16 15:48:34,400 - INFO - 找到新工具: browser-use / browser-use (⭐ 60302)
+2025-05-16 15:48:34,925 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:48:34,983 - DEBUG - https://api.github.com:443 "GET /repos/plandex-ai/plandex/topics HTTP/1.1" 403 280
+2025-05-16 15:48:34,985 - INFO - 找到新工具: plandex-ai / plandex (⭐ 13375)
+2025-05-16 15:48:35,559 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:48:35,614 - DEBUG - https://api.github.com:443 "GET /repos/nanobrowser/nanobrowser/topics HTTP/1.1" 403 280
+2025-05-16 15:48:35,616 - INFO - 找到新工具: nanobrowser / nanobrowser (⭐ 5551)
+2025-05-16 15:48:36,360 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-05-16 15:48:36,413 - DEBUG - https://api.github.com:443 "GET /repos/steel-dev/steel-browser/topics HTTP/1.1" 403 280
+2025-05-16 15:48:36,414 - INFO - 找到新工具: steel-dev / steel-browser (⭐ 4332)
